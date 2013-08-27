@@ -1,41 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
   <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:publisher>Bantam</dc:publisher>
-    <meta name="calibre:series_index" content="1"/>
-    <meta name="calibre:rating" content="6.00"/>
-    <dc:description>EDITORIAL REVIEW:
-
-It's a fear more paralyzing than falling. More terrifying than absolute darkness. More horrifying than anything you can imagine. It's the one fear you cannot escape, no matter where you run...no matter where you hide.  It's the fear of yourself.  It's real.  It can happen to you.  And facing it can be deadly.False MemoryFear for your mind.</dc:description>
+    <dc:publisher>Sander Smeenk</dc:publisher>
+    <dc:description>Martin Manley: My Life and Death Born 8-15-53, Died 8-15-13, Age 60
+"Today is August 15, 2013. Today is my 60th birthday. Today is the last day of my life. Today, I committed suicide. Today, is the first day this site is active, but it will be here for years to come."</dc:description>
     <dc:language>en</dc:language>
-    <dc:title>False Memory</dc:title>
+    <dc:title>My Life and Death</dc:title>
     <meta name="calibre:timestamp" content="2010-10-10T09:16:19.636000+00:00"/>
-    <dc:creator opf:file-as="Koontz, Dean" opf:role="aut">Dean Koontz</dc:creator>
+    <dc:creator opf:file-as="Manley, Martin" opf:role="aut">Martin Manley</dc:creator>
     <meta name="cover" content="cover"/>
     <dc:date>2000-11-28T08:00:00+00:00</dc:date>
     <dc:contributor opf:role="bkp">calibre (0.7.23) [http://calibre-ebook.com]</dc:contributor>
-    <dc:identifier opf:scheme="ISBN">9780553580228</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">0000000000000</dc:identifier>
     <dc:identifier id="uuid_id" opf:scheme="uuid">78b94510-5642-44bf-ab26-1691467d8e5c</dc:identifier>
-    <dc:subject>crazy</dc:subject>
-    <dc:subject>ebook</dc:subject>
-    <dc:subject>Psychological fiction</dc:subject>
-    <dc:subject>Mystery &amp; Detective</dc:subject>
-    <dc:subject>Horror</dc:subject>
-    <dc:subject>Fiction - Horror</dc:subject>
-    <dc:subject>Women - Psychology</dc:subject>
-    <dc:subject>Phobias</dc:subject>
-    <dc:subject>General</dc:subject>
-    <dc:subject>Psychological</dc:subject>
-    <dc:subject>dean_koontz</dc:subject>
-    <dc:subject>Suspense</dc:subject>
-    <dc:subject>Horror - General</dc:subject>
-    <dc:subject>Thrillers</dc:subject>
-    <dc:subject>Fiction</dc:subject>
-    <dc:subject>thriller</dc:subject>
-    <dc:subject>Women</dc:subject>
+    <dc:subject>Biography</dc:subject>
   </metadata>
   <manifest>
-    <item href="img/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="img/cover.png" id="cover" media-type="image/png"/>
     <item href="main/stylesheet.css" id="css" media-type="text/css"/>
     <item href="content/000-toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
     <item href="content/000-titlepage.xhtml" id="id000" media-type="application/xhtml+xml"/>
