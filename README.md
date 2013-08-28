@@ -5,10 +5,11 @@ MartinManleyEPUB
 Born 8-15-53, Died 8-15-13, Age 60</p>
 <p>Original: http://MartinManleyLifeAndDeath.com/a<br />
 Mirror:   http://www.zeroshare.info/</p>
+
 > "Today is August 15, 2013. Today is my 60th birthday. Today is the
 >  last day of my life. Today, I committed suicide. Today, is the first
 >  day this site is active, but it will be here for years to come."
-<br />
+
 <p>Unfortunately, Yahoo! thought different of the 'years to come'.<br/>
 The site went offline not long after Martin Manley put it online.</p>
 <p>At least one known mirror of the site exists and this is my first GIT
