@@ -11,10 +11,6 @@ kindlegen=$(which kindlegen)
 if [ ! -x "$kindlegen" ]; then
     echo "kindlegen utility not in path."
     kindlegen="$HOME/KindleGen/kindlegen"
-    if [ ! -x "$kindlegen" ]; then
-        echo "kindlegen utility not found."
-        exit 1
-    fi
 fi
 echo "kindlegen utility found as '$kindlegen'"
 
@@ -23,4 +19,8 @@ cd epub_root
 zip -qr ../../Martin_Manley-My_life_and_death.epub .
 
 cd ../../
-~/KindleGen/kindlegen Martin_Manley-My_life_and_death.epub
+if [ ! -x "$kindlegen" ]; then
+    echo "kindlegen utility not found."
+else
+    $kindlegen Martin_Manley-My_life_and_death.epub
+fi
