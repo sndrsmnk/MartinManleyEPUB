@@ -3,19 +3,24 @@
   <head>
     <meta content="78b94510-5642-44bf-ab26-1691467d8e5c" name="dtb:uid"/>
     <meta content="2" name="dtb:depth"/>
-    <meta content="calibre (0.7.23)" name="dtb:generator"/>
-    <meta content="0" name="dtb:totalPageCount"/>
-    <meta content="0" name="dtb:maxPageNumber"/>
   </head>
+
   <docTitle>
-    <text>False Memory</text>
+    <text>My life and death</text>
   </docTitle>
+
+  <docAuthor>
+    <text>Martin Manley</text>
+  </docAuthor>
+
   <navMap>
+
     <navPoint id="93552046-2187-4a20-b82d-c368d4757a1d" playOrder="1">
       <navLabel>
         <text>Start</text>
       </navLabel>
-      <content src="000-titlepage.xhtml"/>
+      <content src="content/000-titlepage.xhtml"/>
     </navPoint>
+
   </navMap>
 </ncx>
