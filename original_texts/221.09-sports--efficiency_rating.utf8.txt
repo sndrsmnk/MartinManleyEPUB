@@ -1,0 +1,56 @@
+Efficiency Rating
+
+In 1986 I started researching the NBA. I was always a big basketball fan – specifically college, specifically the KU Jayhawks. However, by that time I had become an NBA fan. It was a great period for the league. Magic Johnson and Larry Bird were in their prime, David Stern (commissioner) had done a great job of marketing and Michael Jordan was becoming a household name.
+
+Research in those days meant sending off letters by snail mail – you know, the federal post office. Who knows how long it would be before you got a response, if ever. There had been a handful of NBA basketball books written up to that point, but they were more of the encyclopedia type. Fortunately, that’s really what I was looking for. The problem was that trying to get my hands on any of them was tough.
+
+Between driving some distances to libraries that had one of the books I wanted and sporadic contact with the NBA along with using the NBA Guide and NBA Register put out annually by the Sporting News, I was able to get all the NBA stats that had ever been made available up to that point in 1986.
+
+So, I began formulating ideas and it didn’t take long before I realized I could produce a book which I called Basketball Heaven (see category to the left under Sports). The first and single most important contribution that I made from my three Basketball Heaven books was something called “Efficiency Rating” (EFF).
+
+In fact, the NBA adopted EFF as an official statistic in the early 2000’s. I had called the formula “Production Rating” in my books because, although it has elements of both Efficiency and Production, my opinion is that since it is a cumulative stat (meaning a player compiles more and more of it over the course of a season) as well as an efficiency stat (typically a ratio of two or more items divided by games), it is more production than efficiency. Nevertheless, when the NBA adopted it and called it Efficiency Rating, I decided not to buck the system.
+
+So, Efficiency Rating is a simple formula designed to capture a player’s total value on a per-game or per-season basis. Here it is…
+
+EFF = [(Points+Rebounds+Assists+Blocks+Steals)-(Missed FGs + Missed FTs + Turnovers)] / Games Played
+
+The beauty of it is that EFF ends up creating a number for each player in the NBA that is very similar to the number you would see for scoring averages. For example, in the 2013 season, LeBron James led the NBA by EFF with a 32.18 average. Carmelo Anthony ranked #10 with a 23.18 average. Deron Williams was # 30 with a 19.46 average. Aaron Affalo was #100 with a 13.69 average and so forth. There were 469 players in the NBA in 2013. Essentially, they go all the way down to zero – just as they do in scoring.
+
+The #100 player by EFF is 13.69 while the #100 player by scoring average is 12.56, so as you can see, they follow more or less the same parameters… 30+ is superstar, 20-30 is all-star, 10-20 is starter, 0-10 is role player.
+
+It’s only a coincidence, of course, that EFF and PPG (points per game) yield such similar looking numbers, but it’s icing on the cake.
+
+EFF is a great stat. It’s not intended to cover every conceivable aspect of the game of basketball. However, take another look at the components of the stat… points, rebounding, assists, blocks, steals, FG%, FT% and turnovers. That’s almost everything. The only thing that isn’t covered is defense. Yes, blocks and steals are part of defense, but most individual defense in the NBA is hard to quantify. So, I’ve always said that EFF measures pretty much everything offensively and part of the defense. But, until there is a great deal more work done on how to measure defense, the EFF formula need not be altered or cluttered.
+
+One of the principles that I’ve operated upon in sports is the notion that less is more. That may seem like a contradiction when you look at how exhaustive are my articles on SportsInReview.com or even this site… I unable to simply commit suicide and leave a one page note. Instead, I have to create an entire web-site for it.
+
+Nevertheless, I also recognize that the vast majority of people don’t mind reading nearly as much as they mind calculating. For me I’d just as soon calculate, but to be reader-friendly, I can’t have a formula that is the basis for my books or much of the basketball on the blog that is ridiculously complicated. I could have always made EFF more complicated by assigning weights to each of the components if nothing else. But, I justified keeping it simple because no matter how complicated I made it, it didn’t really change the order all that much of which players were good, better, best.
+
+Efficiency Rating should not be confused with a later version of it called "Player Efficiency Rating" (PER) – something you will find on ESPN. PER is unbelievably more complicated than EFF. It’s not user friendly in any way, shape or form. I’ve discussed this on the blog (originally Upon Further Review with the KC Star and then Sports In Review after I left the Star).
+
+I’m not going to go into an analysis of PER, but here is the formula. It’s crazily complicated!
+
+uPER = 1/Min x (3P + [(2/3) x AST] + [(2 – factor x (tmAST/tmFG)) x FG] + [FT x 0.5 x (1+(1-(tmAST/tmFG)) + (2/3) x (tmAST)/tmFG))] – [VOP x TO] – [VOP x DRBP x (FGA-FG)] – [VOP x 0.44 x (0.44 + (0.56 x DRBP)) x (FTA – FT)] + [VOP x (1-DRBP) x (TRB – ORB)] + [VOP x DRBP x ORB] + [VOP x STL] + [VOP x DRBP x BLK] – [PF * ((lgFT/lgPF) – 0.44 x (lgFTA/lgPF) x VOP)])
+
+Where…
+
+Factor = (2/3) – [(0.5 x (lgAST/lgFG)) / (2 x (lgFG/lgFT))]
+
+VOP = [lgPTS/lgFGA – lgORB + lgTO + 0.44 x lgFTA)]
+
+DRBP = [(lgTRB – lgORB) / lgTRB]
+
+And…
+
+Once uPER is calculated, it must be adjusted for team pace and normalized to the league to become PER:
+
+PER = [uPER x (lgPace/tmPace)] x (15/lguPER)
+
+I recognize a computer will have no problem calculating this, but it’s absurdly complicated for anyone to do on their own compared to Efficiency Rating and for what? EFF has LeBron James #1 at 32.18 while PER has him at 31.67. Both have Kevin Durant #2 and so forth.
+
+Let’s look at LeBron James over the last six seasons. What’s the difference between EFF and PER? I (meaning EFF) have him a little higher one year, a little lower the next. It’s definitely not worth having to deal with a formula like PER when you can have something as simple as EFF do the job for you. My motto is 90% of the value for 10% of the work!
+
+┌─────────────────────┬─────────────────────┬─────────────────────┐ │        Year         │         EFF         │         PER         │ ├─────────────────────┼─────────────────────┼─────────────────────┤ │        2013         │        32.18        │        31.67        │ ├─────────────────────┼─────────────────────┼─────────────────────┤ │        2012         │        29.85        │        30.80        │ ├─────────────────────┼─────────────────────┼─────────────────────┤ │        2011         │        28.58        │        27.34        │ ├─────────────────────┼─────────────────────┼─────────────────────┤ │        2010         │        32.39        │        31.19        │ ├─────────────────────┼─────────────────────┼─────────────────────┤ │        2009         │        30.88        │        31.76        │ ├─────────────────────┼─────────────────────┼─────────────────────┤ │        2008         │        30.33        │        29.15        │ └─────────────────────┴─────────────────────┴─────────────────────┘
+
+Efficiency Rating was the main formula I used in my books 25 years ago. I’ve since developed several composite formulas for different things – in baseball and football, but the overriding principle is to keep it simple stupid!
+

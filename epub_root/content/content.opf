@@ -20,7 +20,7 @@
     <item href="main/stylesheet.css" id="css" media-type="text/css"/>
     <item href="content/000-toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
     <item href="content/000-titlepage.xhtml" id="id000" media-type="application/xhtml+xml"/>
-    <item href="content/001-preface.xhtml" id="id001" media-type="application/xhtml+xml"/>
+    <item href="content/100-preface.xhtml" id="id100" media-type="application/xhtml+xml"/>
     <item href="content/101-home_page.xhtml" id="id101" media-type="application/xhtml+xml"/>
     <item href="content/102-january_1_2012.xhtml" id="id102" media-type="application/xhtml+xml"/>
     <item href="content/103-june_11_2012--i_am_not_a_conformist.xhtml" id="id103" media-type="application/xhtml+xml"/>
