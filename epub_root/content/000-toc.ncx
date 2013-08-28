@@ -15,7 +15,7 @@
       <navLabel>
         <text>Start</text>
       </navLabel>
-      <content src="content/000-titlepage.xhtml"/>
+      <content src="000-titlepage.xhtml"/>
     </navPoint>
   </navMap>
 </ncx>
