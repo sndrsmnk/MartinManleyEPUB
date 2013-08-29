@@ -16,7 +16,8 @@ echo "kindlegen utility found as '$kindlegen'"
 
 
 cd epub_root
-zip -qr ../../Martin_Manley-My_life_and_death.epub .
+zip -qX0 ../../Martin_Manley-My_life_and_death.epub mimetype
+zip -qXur9D ../../Martin_Manley-My_life_and_death.epub *
 
 cd ../../
 if [ ! -x "$kindlegen" ]; then
