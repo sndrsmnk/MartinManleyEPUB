@@ -15,11 +15,6 @@
 
   <navMap>
     
-    <navPoint id="b26dd17c-0dac-4306-8d77-4557930e2358" playOrder="1">
-        <navLabel><text>Book Cover</text></navLabel>
-        <content src="content/000-titlepage.xhtml"/>
-    </navPoint>
-
     <navPoint id="6c58ae1d-c544-4a37-984e-26dda5799f31" playOrder="2">
         <navLabel><text>Release of Rights</text></navLabel>
         <content src="content/100-preface.xhtml"/>
