@@ -3,16 +3,16 @@
   <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:publisher>Sander Smeenk</dc:publisher>
     <dc:description>Martin Manley: My Life and Death Born 8-15-53, Died 8-15-13, Age 60
-"Today is August 15, 2013. Today is my 60th birthday. Today is the last day of my life. Today, I committed suicide. Today, is the first day this site is active, but it will be here for years to come."</dc:description>
+"Today is August 15, 2013. Today is my 60th birthday. Today is the last day of
+my life. Today, I committed suicide. Today, is the first day this site is
+active, but it will be here for years to come."</dc:description>
     <dc:language>en</dc:language>
     <dc:title>My Life and Death</dc:title>
-    <meta name="calibre:timestamp" content="2010-10-10T09:16:19.636000+00:00"/>
     <dc:creator opf:file-as="Manley, Martin" opf:role="aut">Martin Manley</dc:creator>
-    <meta name="cover" content="cover"/>
-    <dc:date>2000-11-28T08:00:00+00:00</dc:date>
-    <dc:contributor opf:role="bkp">calibre (0.7.23) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>2013-08-15T00:04:20+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.0.0) [http://calibre-ebook.com]</dc:contributor>
     <dc:identifier opf:scheme="ISBN">0000000000000</dc:identifier>
-    <dc:identifier id="uuid_id" opf:scheme="uuid">78b94510-5642-44bf-ab26-1691467d8e5c</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">a2ac997d-3661-4542-bd66-8884975f81d0</dc:identifier>
     <dc:subject>Biography</dc:subject>
   </metadata>
   <manifest>
@@ -44,6 +44,7 @@
     <item href="content/209-two_marriages.xhtml" id="id209" media-type="application/xhtml+xml"/>
     <item href="content/210-first_two_loves.xhtml" id="id210" media-type="application/xhtml+xml"/>
     <item href="content/211-pictures.xhtml" id="id211" media-type="application/xhtml+xml"/>
+    <item href="content/212.00-trips_and_travel.xhtml" id="id212_00" media-type="application/xhtml+xml"/>
     <item href="content/212.01-trips_and_travel--honeymoons.xhtml" id="id212_01" media-type="application/xhtml+xml"/>
     <item href="content/212.02-trips_and_travel--flying.xhtml" id="id212_02" media-type="application/xhtml+xml"/>
     <item href="content/212.03-trips_and_travel--x-files.xhtml" id="id212_03" media-type="application/xhtml+xml"/>
@@ -53,9 +54,11 @@
     <item href="content/212.07-trips_and_travel--colorado_1985.xhtml" id="id212_07" media-type="application/xhtml+xml"/>
     <item href="content/212.08-trips_and_travel--houston_1990.xhtml" id="id212_08" media-type="application/xhtml+xml"/>
     <item href="content/212.09-trips_and_travel--florida_2004.xhtml" id="id212_09" media-type="application/xhtml+xml"/>
+    <item href="content/213.00-writing_fiction.xhtml" id="id213_00" media-type="application/xhtml+xml"/>
     <item href="content/213.01-writing_fiction--ring_of_truth.xhtml" id="id213_01" media-type="application/xhtml+xml"/>
     <item href="content/213.02-writing_fiction--rot_cheat_sheet.xhtml" id="id213_02" media-type="application/xhtml+xml"/>
     <item href="content/213.03-writing_fiction--who_would_play.xhtml" id="id213_03" media-type="application/xhtml+xml"/>
+    <item href="content/214.00-music__poetry.xhtml" id="id214_00" media-type="application/xhtml+xml"/>
     <item href="content/214.01-music__poetry--james_taylor_et_al.xhtml" id="id214_01" media-type="application/xhtml+xml"/>
     <item href="content/214.02-music__poetry--duets.xhtml" id="id214_02" media-type="application/xhtml+xml"/>
     <item href="content/214.03-music__poetry--my_recordings.xhtml" id="id214_03" media-type="application/xhtml+xml"/>
@@ -66,12 +69,14 @@
     <item href="content/217-sleep_deprived.xhtml" id="id217" media-type="application/xhtml+xml"/>
     <item href="content/218-living_donor.xhtml" id="id218" media-type="application/xhtml+xml"/>
     <item href="content/219-food__drink.xhtml" id="id219" media-type="application/xhtml+xml"/>
+    <item href="content/220.00-creations.xhtml" id="id220_00" media-type="application/xhtml+xml"/>
     <item href="content/220.01-creations--satellite_tv.xhtml" id="id220_01" media-type="application/xhtml+xml"/>
     <item href="content/220.02-creations--playground.xhtml" id="id220_02" media-type="application/xhtml+xml"/>
     <item href="content/220.03-creations--3546_sw_35th.xhtml" id="id220_03" media-type="application/xhtml+xml"/>
     <item href="content/220.04-creations--cat_house.xhtml" id="id220_04" media-type="application/xhtml+xml"/>
     <item href="content/220.05-creations--wpsl.xhtml" id="id220_05" media-type="application/xhtml+xml"/>
     <item href="content/220.06-creations--tabernacle.xhtml" id="id220_06" media-type="application/xhtml+xml"/>
+    <item href="content/221.00-sports.xhtml" id="id221_00" media-type="application/xhtml+xml"/>
     <item href="content/221.01-sports--my_best_and_worst.xhtml" id="id221_01" media-type="application/xhtml+xml"/>
     <item href="content/221.02-sports--activities.xhtml" id="id221_02" media-type="application/xhtml+xml"/>
     <item href="content/221.03-sports--basketball_heaven.xhtml" id="id221_03" media-type="application/xhtml+xml"/>
@@ -97,7 +102,8 @@
     <item href="content/226-poker--games_and_rules.xhtml" id="id226" media-type="application/xhtml+xml"/>
     <item href="content/227-legal.xhtml" id="id227" media-type="application/xhtml+xml"/>
     <item href="content/228-joco_ks.xhtml" id="id228" media-type="application/xhtml+xml"/>
-    <item href="content/229.00-us_financial--lottery.xhtml" id="id229_00" media-type="application/xhtml+xml"/>
+    <item href="content/229.00-us_financial.xhtml" id="id229_00" media-type="application/xhtml+xml"/>
+    <item href="content/229.01-us_financial--lottery.xhtml" id="id229_01" media-type="application/xhtml+xml"/>
     <item href="content/230-911__conspiracies.xhtml" id="id230" media-type="application/xhtml+xml"/>
     <item href="content/232-births__deaths.xhtml" id="id232" media-type="application/xhtml+xml"/>
     <item href="content/233-cool_stuff.xhtml" id="id233" media-type="application/xhtml+xml"/>
@@ -244,7 +250,7 @@
     <item href="content/img/shoes_001.19634709_std.jpg" id="id_shoes_001.19634709_std.jpg" media-type="image/jpeg"/>
   </manifest>
   <spine toc="ncx">
-    <itemref idref="id000"/>          
+    <itemref idref="id000"/>
     <itemref idref="id100"/>
     <itemref idref="id101"/>
     <itemref idref="id102"/>
@@ -269,6 +275,7 @@
     <itemref idref="id209"/>
     <itemref idref="id210"/>
     <itemref idref="id211"/>
+    <itemref idref="id212_00"/>
     <itemref idref="id212_01"/>
     <itemref idref="id212_02"/>
     <itemref idref="id212_03"/>
@@ -278,6 +285,7 @@
     <itemref idref="id212_07"/>
     <itemref idref="id212_08"/>
     <itemref idref="id212_09"/>
+    <itemref idref="id213_00"/>
     <itemref idref="id213_01"/>
     <itemref idref="id213_02"/>
     <itemref idref="id213_03"/>
@@ -291,12 +299,14 @@
     <itemref idref="id217"/>
     <itemref idref="id218"/>
     <itemref idref="id219"/>
+    <itemref idref="id220_00"/>
     <itemref idref="id220_01"/>
     <itemref idref="id220_02"/>
     <itemref idref="id220_03"/>
     <itemref idref="id220_04"/>
     <itemref idref="id220_05"/>
     <itemref idref="id220_06"/>
+    <itemref idref="id221_00"/>
     <itemref idref="id221_01"/>
     <itemref idref="id221_02"/>
     <itemref idref="id221_03"/>
@@ -323,6 +333,7 @@
     <itemref idref="id227"/>
     <itemref idref="id228"/>
     <itemref idref="id229_00"/>
+    <itemref idref="id229_01"/>
     <itemref idref="id230"/>
     <itemref idref="id232"/>
     <itemref idref="id233"/>
