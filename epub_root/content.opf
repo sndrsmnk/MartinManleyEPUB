@@ -342,8 +342,7 @@
   <guide>
 
 <!--
-cover   the book cover(s), jacket information, etc.
-toc   table of contents
+toc 
 index
 back-of-book
 style
@@ -359,11 +358,11 @@ foreword
 loi   list of illustrations
 lot   list of tables
 notes
-preface
+title-page
 -->
 
     <reference href="cover.jpg" type="cover" title="Book Cover"/>
-    <reference href="content/100-preface.xhtml" type="title-page" title="Book Cover"/>
+    <reference href="content/100-preface.xhtml" type="preface" title="Release of Rights"/>
     <reference href="content/101-home_page.xhtml" type="text" title="Start reading"/>
   </guide>
 </package>
