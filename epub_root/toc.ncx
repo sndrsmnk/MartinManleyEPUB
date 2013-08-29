@@ -215,7 +215,7 @@
         <content src="content/214.00-music__poetry.xhtml"/>
 
         <navPoint id="5170b7d9-247b-4b8c-b8af-59ac9f8d61fb" playOrder="41">
-            <navLabel><text>James Taylor</text></navLabel>
+            <navLabel><text>James Taylor, Jason Mraz, Bruno Mars</text></navLabel>
             <content src="content/214.01-music__poetry--james_taylor_et_al.xhtml"/>
         </navPoint>
         

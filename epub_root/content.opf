@@ -3,9 +3,10 @@
   <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:publisher>Sander Smeenk</dc:publisher>
     <dc:description>Martin Manley: My Life and Death Born 8-15-53, Died 8-15-13, Age 60
-"Today is August 15, 2013. Today is my 60th birthday. Today is the last day of
-my life. Today, I committed suicide. Today, is the first day this site is
-active, but it will be here for years to come."</dc:description>
+
+"My life is an open book now that I've closed the book on my life"
+
+"Today is August 15, 2013. Today is my 60th birthday. Today is the last day of my life. Today, I committed suicide. Today, is the first day this site is active, but it will be here for years to come."</dc:description>
     <dc:language>en</dc:language>
     <dc:title>My Life and Death</dc:title>
     <dc:creator opf:file-as="Manley, Martin" opf:role="aut">Martin Manley</dc:creator>
@@ -289,6 +290,7 @@ active, but it will be here for years to come."</dc:description>
     <itemref idref="id213_01"/>
     <itemref idref="id213_02"/>
     <itemref idref="id213_03"/>
+    <itemref idref="id214_00"/>
     <itemref idref="id214_01"/>
     <itemref idref="id214_02"/>
     <itemref idref="id214_03"/>
