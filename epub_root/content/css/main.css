@@ -1,8 +1,25 @@
 @namespace h "http://www.w3.org/1999/xhtml";
 
 .normal0 {
-    font-size: 1em;
-    text-align: left;
+    display: block;
+    line-height: 1em;
+    margin-bottom: 0.2em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.2em;
+    text-align: justify;
+    text-indent: 1.5em;
+    font-family: 'futura', sans-serif;
+}
+.normal1 {
+    display: block;
+    line-height: 1em;
+    margin-bottom: 0.2em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.2em;
+    text-align: justify;
+    text-indent: 0em;
     font-family: 'futura', sans-serif;
 }
 
