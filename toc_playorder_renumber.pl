@@ -7,11 +7,6 @@ while (<>) {
         $_ =~ s#playOrder="\d+"#playOrder="$counter"#;
         $counter++;
     }
-
-    if (/page href.+?name="[X\d]+"/) {
-        $_ =~ s#name="[X\d]+"#name="$counter"#;
-        $counter++;
-    }
     print;
 }
 __END__
