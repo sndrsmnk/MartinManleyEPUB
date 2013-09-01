@@ -6,12 +6,15 @@
 .hr0 {
 }
 
+/* <strong class="strong0"> */
 .strong0 {
 }
 
+/* <em class="em0"> */
 .em0 {
 }
 
+/* <u class="u0"> */
 .u0 {
 }
 
@@ -21,6 +24,10 @@
 }
 .h2 {
     font-style: italic;
+}
+.h3 {
+    font-style: normal;
+    font-weight: bold;
 }
 
 /* Used for chapter headers */
@@ -54,6 +61,6 @@
 
 /* Origintal text edited by me */
 .normal9 {
-    font-size: 0.5em;
+    font-size: 0.75em;
     font-style: italic;
 }
