@@ -48,12 +48,12 @@ else
     mv Martin_Manley-My_life_and_death.mobi Martin_Manley-My_life_and_death-kindlegen.mobi
 fi
 
-if [ ! -x "$ebookconvert" ]; then
-    echo "Calibre 'ebook-convert' utility not found."
-else
-    $ebookconvert Martin_Manley-My_life_and_death.epub .mobi
-    mv Martin_Manley-My_life_and_death.mobi Martin_Manley-My_life_and_death-calibre.mobi
-fi
+#if [ ! -x "$ebookconvert" ]; then
+#    echo "Calibre 'ebook-convert' utility not found."
+#else
+#    $ebookconvert Martin_Manley-My_life_and_death.epub .mobi
+#    mv Martin_Manley-My_life_and_death.mobi Martin_Manley-My_life_and_death-calibre.mobi
+#fi
 
 if [ ! -e "Martin_Manley-My_life_and_death-$tool.mobi" ]; then
     echo "No .mobi version found?"
