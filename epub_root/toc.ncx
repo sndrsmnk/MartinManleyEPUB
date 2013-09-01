@@ -441,7 +441,7 @@
     </navPoint>
 
     <navPoint id="aed86edb-a559-4312-b1e3-3ff78e4700b3" playOrder="87">
-        <navLabel><text>&nbsp;Births, DEATHS &amp; Events</text></navLabel>
+        <navLabel><text>Births, DEATHS &amp; Events</text></navLabel>
         <content src="content/232-births__deaths.xhtml"/>
     </navPoint>
 
