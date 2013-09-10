@@ -1,19 +1,5 @@
 #!/bin/sh
 
-tool=$1
-case "$tool" in
-    kindlegen)
-        tool="kindlegen"
-        ;;
-    calibre)
-        tool="calibre"
-        ;;
-    *)
-        tool="kindlegen"
-        ;;
-esac
-echo "pushing $tool result to kindle if connected"
-
 zip=$(which zip)
 if [ ! -x "$zip" ]; then
     echo "zip utility not found."
@@ -24,17 +10,8 @@ echo "zip utility found as '$zip'"
 kindlegen=$(which kindlegen)
 if [ ! -x "$kindlegen" ]; then
     echo "Amazon 'kindlegen' utility not in path."
-    kindlegen="$HOME/KindleGen/kindlegen"
+    exit
 fi
-echo "Amazon 'kindlegen' utility found as '$kindlegen'"
-
-ebookconvert=$(which ebook-convert)
-if [ ! -x "$ebookconvert" ]; then
-    echo "Calibre 'ebook-convert' utility not in path."
-else
-    echo "Calibre 'ebook-convert' utility found as '$ebookconvert'"
-fi
-
 
 cd epub_root
 zip -qX0 ../../Martin_Manley-My_life_and_death.epub mimetype
@@ -45,17 +22,9 @@ if [ ! -x "$kindlegen" ]; then
     echo "Amazon 'kindlegen' utility not found."
 else
     $kindlegen Martin_Manley-My_life_and_death.epub
-    mv Martin_Manley-My_life_and_death.mobi Martin_Manley-My_life_and_death-kindlegen.mobi
 fi
 
-#if [ ! -x "$ebookconvert" ]; then
-#    echo "Calibre 'ebook-convert' utility not found."
-#else
-#    $ebookconvert Martin_Manley-My_life_and_death.epub .mobi
-#    mv Martin_Manley-My_life_and_death.mobi Martin_Manley-My_life_and_death-calibre.mobi
-#fi
-
-if [ ! -e "Martin_Manley-My_life_and_death-$tool.mobi" ]; then
+if [ ! -e "Martin_Manley-My_life_and_death.mobi" ]; then
     echo "No .mobi version found?"
     exit 1
 fi

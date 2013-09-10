@@ -316,7 +316,7 @@
 
         <navPoint id="bba1fac2-f854-4866-b6ec-3d0586fe373d" playOrder="62">
             <navLabel><text>BBH Quotes</text></navLabel>
-            <content src="content/221.03.01--bbh_quotes.xhtml"/>
+            <content src="content/221.03.01-sports--bbh_quotes.xhtml"/>
         </navPoint>
 
         <navPoint id="7aca7f77-7158-4d69-b76c-d40880f1ad2a" playOrder="63">
@@ -427,12 +427,7 @@
 
     <navPoint id="3c376815-a8e7-434c-85d9-614d4af01942" playOrder="84">
         <navLabel><text>U.S. Financial</text></navLabel>
-        <content src="content/229.00-us_financial.xhtml"/>
-
-        <navPoint id="c17e3f63-dcbe-442d-9571-918560e4e47f" playOrder="85">
-            <navLabel><text>LotterIES</text></navLabel>
-            <content src="content/229.01-us_financial--lottery.xhtml"/>
-        </navPoint>
+        <content src="content/229-us_financial--lottery.xhtml"/>
     </navPoint>
 
     <navPoint id="3ef7004e-2819-428b-972d-65f98a9c568e" playOrder="86">
@@ -440,14 +435,14 @@
         <content src="content/230-911__conspiracies.xhtml"/>
     </navPoint>
 
-    <navPoint id="aed86edb-a559-4312-b1e3-3ff78e4700b3" playOrder="87">
-        <navLabel><text>Births, DEATHS &amp; Events</text></navLabel>
-        <content src="content/232-births__deaths.xhtml"/>
+    <navPoint id="db47cbea-d495-48d3-ac6c-10f71297ceac" playOrder="87">
+        <navLabel><text>COOL STUFF</text></navLabel>
+        <content src="content/231-cool_stuff.xhtml"/>
     </navPoint>
 
-    <navPoint id="db47cbea-d495-48d3-ac6c-10f71297ceac" playOrder="88">
-        <navLabel><text>COOL STUFF</text></navLabel>
-        <content src="content/233-cool_stuff.xhtml"/>
+    <navPoint id="aed86edb-a559-4312-b1e3-3ff78e4700b3" playOrder="88">
+        <navLabel><text>Births, DEATHS &amp; Events</text></navLabel>
+        <content src="content/232-births__deaths.xhtml"/>
     </navPoint>
 
   </navMap>

@@ -83,7 +83,7 @@
     <item href="content/221.01-sports--my_best_and_worst.xhtml" id="id221_01" media-type="application/xhtml+xml"/>
     <item href="content/221.02-sports--activities.xhtml" id="id221_02" media-type="application/xhtml+xml"/>
     <item href="content/221.03-sports--basketball_heaven.xhtml" id="id221_03" media-type="application/xhtml+xml"/>
-    <item href="content/221.03.01--bbh_quotes.xhtml" id="id221_03_01" media-type="application/xhtml+xml"/>
+    <item href="content/221.03.01-sports--bbh_quotes.xhtml" id="id221_03_01" media-type="application/xhtml+xml"/>
     <item href="content/221.04-sports--sports_in_review.xhtml" id="id221_04" media-type="application/xhtml+xml"/>
     <item href="content/221.05-sports--kansas_basketball.xhtml" id="id221_05" media-type="application/xhtml+xml"/>
     <item href="content/221.05.01-sports--ku_championship_run.xhtml" id="id221_05_01" media-type="application/xhtml+xml"/>
@@ -105,11 +105,10 @@
     <item href="content/226-poker--games_and_rules.xhtml" id="id226" media-type="application/xhtml+xml"/>
     <item href="content/227-legal.xhtml" id="id227" media-type="application/xhtml+xml"/>
     <item href="content/228-joco_ks.xhtml" id="id228" media-type="application/xhtml+xml"/>
-    <item href="content/229.00-us_financial.xhtml" id="id229_00" media-type="application/xhtml+xml"/>
-    <item href="content/229.01-us_financial--lottery.xhtml" id="id229_01" media-type="application/xhtml+xml"/>
+    <item href="content/229-us_financial--lottery.xhtml" id="id229" media-type="application/xhtml+xml"/>
     <item href="content/230-911__conspiracies.xhtml" id="id230" media-type="application/xhtml+xml"/>
+    <item href="content/231-cool_stuff.xhtml" id="id231" media-type="application/xhtml+xml"/>
     <item href="content/232-births__deaths.xhtml" id="id232" media-type="application/xhtml+xml"/>
-    <item href="content/233-cool_stuff.xhtml" id="id233" media-type="application/xhtml+xml"/>
 
     <item href="content/media/Dont-Let-Me-Be-Lonely-Tonight-Martin-Manley.mp3" id="id_Dont-Let-Me-Be-Lonely-Tonight-Martin-Manley.mp3" media-type="audio/mpeg"/>
     <item href="content/media/Handy-Man.mp3" id="id_Handy-Man.mp3" media-type="audio/mpeg"/>
@@ -340,11 +339,10 @@
     <itemref idref="id226"/>
     <itemref idref="id227"/>
     <itemref idref="id228"/>
-    <itemref idref="id229_00"/>
-    <itemref idref="id229_01"/>
+    <itemref idref="id229"/>
     <itemref idref="id230"/>
+    <itemref idref="id231"/>
     <itemref idref="id232"/>
-    <itemref idref="id233"/>
   </spine>
   <guide>
 
@@ -368,8 +366,8 @@ notes
 title-page
 -->
 
-    <reference href="content/000-toc.xhtml" type="toc" title="Table of content"/>
     <reference href="cover.jpg" type="cover" title="Book Cover"/>
+    <reference href="content/000-toc.xhtml" type="toc" title="Table of content"/>
     <reference href="content/100-preface.xhtml" type="preface" title="Release of Rights"/>
     <reference href="content/101-home_page.xhtml" type="text" title="Start reading"/>
   </guide>
