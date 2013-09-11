@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en" unique-identifier="uuid_id">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator id="creator">Martin Manley</dc:creator>
+    <dc:title id="title">My Life and Death</dc:title>
+
+    <dc:subject>Biography</dc:subject>
+    <dc:language>en-US</dc:language>
+
+    <dc:publisher>Sander Smeenk</dc:publisher>
+    <dc:description>Martin Manley: My Life and Death Born 8-15-53, Died 8-15-13, Age 60
+
+"My life is an open book now that I've closed the book on my life"
+
+"Today is August 15, 2013. Today is my 60th birthday. Today is the last day of my life. Today, I committed suicide. Today, is the first day this site is active, but it will be here for years to come."</dc:description>
+
+    <dc:identifier id="uuid_id">a2ac997d-3661-4542-bd66-8884975f81d0</dc:identifier>
+    <meta property="dcterms:modified">2013-08-15T00:04:20Z</meta>
+    <dc:date>2013-08-15T00:04:20Z</dc:date>
+    <meta name="cover" content="cover-image"/> <!-- content points to id= of corresponding item in manifest -->
+</metadata>
+<manifest>
+    <item href="toc.xhtml" id="toc" properties="nav" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+
+    <item href="xhtml/000-cover.xhtml" id="idcover" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/000-toc.xhtml" id="id000" media-type="application/xhtml+xml"/>
+    <item href="xhtml/100-preface.xhtml" id="id100" media-type="application/xhtml+xml"/>
+    <item href="xhtml/101-home_page.xhtml" id="id101" media-type="application/xhtml+xml"/>
+    <item href="xhtml/102-january_1_2012.xhtml" id="id102" media-type="application/xhtml+xml"/>
+    <item href="xhtml/103-june_11_2012--i_am_not_a_conformist.xhtml" id="id103" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/104-suicide_preface.xhtml" id="id104" media-type="application/xhtml+xml"/>
+    <item href="xhtml/105-why_suicide.xhtml" id="id105" media-type="application/xhtml+xml"/>
+    <item href="xhtml/106-why_not.xhtml" id="id106" media-type="application/xhtml+xml"/>
+    <item href="xhtml/107-why_age_60.xhtml" id="id107" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/108-self-serving.xhtml" id="id108" media-type="application/xhtml+xml"/>
+    <item href="xhtml/109-suicide_-_how_2.xhtml" id="id109" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/110-gun_control.xhtml" id="id110" media-type="application/xhtml+xml"/>
+    <item href="xhtml/111-other_suicides.xhtml" id="id111" media-type="application/xhtml+xml"/>
+    <item href="xhtml/112-other_quotes.xhtml" id="id112" media-type="application/xhtml+xml"/>
+    <item href="xhtml/201-growing_up.xhtml" id="id201" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/202-omg_i_look_60.xhtml" id="id202" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/203-mom_and_dad.xhtml" id="id203" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/204-the_heavens.xhtml" id="id204" media-type="application/xhtml+xml"/>
+    <item href="xhtml/205-my_religion.xhtml" id="id205" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/206-chancel_choir.xhtml" id="id206" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/207-victory_o_lord.xhtml" id="id207" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/208-the_proposal.xhtml" id="id208" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/209-two_marriages.xhtml" id="id209" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/210-first_two_loves.xhtml" id="id210" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/211-pictures.xhtml" id="id211" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/212.00-trips_and_travel.xhtml" id="id212_00" media-type="application/xhtml+xml"/>
+    <item href="xhtml/212.01-trips_and_travel--honeymoons.xhtml" id="id212_01" media-type="application/xhtml+xml"/>
+    <item href="xhtml/212.02-trips_and_travel--flying.xhtml" id="id212_02" media-type="application/xhtml+xml"/>
+    <item href="xhtml/212.03-trips_and_travel--x-files.xhtml" id="id212_03" media-type="application/xhtml+xml"/>
+    <item href="xhtml/212.04-trips_and_travel--canada__mexico.xhtml" id="id212_04" media-type="application/xhtml+xml"/>
+    <item href="xhtml/212.05-trips_and_travel--colorado_1970.xhtml" id="id212_05" media-type="application/xhtml+xml"/>
+    <item href="xhtml/212.06-trips_and_travel--florida_1973.xhtml" id="id212_06" media-type="application/xhtml+xml"/>
+    <item href="xhtml/212.07-trips_and_travel--colorado_1985.xhtml" id="id212_07" media-type="application/xhtml+xml"/>
+    <item href="xhtml/212.08-trips_and_travel--houston_1990.xhtml" id="id212_08" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/212.09-trips_and_travel--florida_2004.xhtml" id="id212_09" media-type="application/xhtml+xml"/>
+    <item href="xhtml/213.00-writing_fiction.xhtml" id="id213_00" media-type="application/xhtml+xml"/>
+    <item href="xhtml/213.01-writing_fiction--ring_of_truth.xhtml" id="id213_01" media-type="application/xhtml+xml"/>
+    <item href="xhtml/213.02-writing_fiction--rot_cheat_sheet.xhtml" id="id213_02" media-type="application/xhtml+xml"/>
+    <item href="xhtml/213.03-writing_fiction--who_would_play.xhtml" id="id213_03" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/214.00-music__poetry.xhtml" id="id214_00" media-type="application/xhtml+xml"/>
+    <item href="xhtml/214.01-music__poetry--james_taylor_et_al.xhtml" id="id214_01" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/214.02-music__poetry--duets.xhtml" id="id214_02" media-type="application/xhtml+xml"/>
+    <item href="xhtml/214.03-music__poetry--my_recordings.xhtml" id="id214_03" media-type="application/xhtml+xml"/>
+    <item href="xhtml/214.04-music__poetry--my_songs.xhtml" id="id214_04" media-type="application/xhtml+xml"/>
+    <item href="xhtml/214.05-music__poetry--my_poems.xhtml" id="id214_05" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/215-movies__tv.xhtml" id="id215" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/216-health.xhtml" id="id216" media-type="application/xhtml+xml"/>
+    <item href="xhtml/217-sleep_deprived.xhtml" id="id217" media-type="application/xhtml+xml"/>
+    <item href="xhtml/218-living_donor.xhtml" id="id218" media-type="application/xhtml+xml"/>
+    <item href="xhtml/219-food__drink.xhtml" id="id219" media-type="application/xhtml+xml"/>
+    <item href="xhtml/220.00-creations.xhtml" id="id220_00" media-type="application/xhtml+xml"/>
+    <item href="xhtml/220.01-creations--satellite_tv.xhtml" id="id220_01" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/220.02-creations--playground.xhtml" id="id220_02" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/220.03-creations--3546_sw_35th.xhtml" id="id220_03" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/220.04-creations--cat_house.xhtml" id="id220_04" media-type="application/xhtml+xml"/>
+    <item href="xhtml/220.05-creations--wpsl.xhtml" id="id220_05" media-type="application/xhtml+xml"/>
+    <item href="xhtml/220.06-creations--tabernacle.xhtml" id="id220_06" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/221.00-sports.xhtml" id="id221_00" media-type="application/xhtml+xml"/>
+    <item href="xhtml/221.01-sports--my_best_and_worst.xhtml" id="id221_01" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/221.02-sports--activities.xhtml" id="id221_02" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/221.03-sports--basketball_heaven.xhtml" id="id221_03" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/221.03.01-sports--bbh_quotes.xhtml" id="id221_03_01" media-type="application/xhtml+xml"/>
+    <item href="xhtml/221.04-sports--sports_in_review.xhtml" id="id221_04" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/221.05-sports--kansas_basketball.xhtml" id="id221_05" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/221.05.01-sports--ku_championship_run.xhtml" id="id221_05_01" media-type="application/xhtml+xml"/>
+    <item href="xhtml/221.06-sports--kc_chiefs__royals.xhtml" id="id221_06" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/221.06.01-sports--almost_historical.xhtml" id="id221_06_01" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/221.07-sports--kevin_johnson.xhtml" id="id221_07" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/221.08-sports--sports_and_race.xhtml" id="id221_08" media-type="application/xhtml+xml"/>
+    <item href="xhtml/221.08.01-sports--jimmy_the_greek.xhtml" id="id221_08_01" media-type="application/xhtml+xml"/>
+    <item href="xhtml/221.08.02-sports--race.xhtml" id="id221_08_02" media-type="application/xhtml+xml"/>
+    <item href="xhtml/221.08.03-sports--oj_justice.xhtml" id="id221_08_03" media-type="application/xhtml+xml"/>
+    <item href="xhtml/221.08.04-sports--standing_for_the_national_anthem.xhtml" id="id221_08_04" media-type="application/xhtml+xml"/>
+    <item href="xhtml/221.09-sports--efficiency_rating.xhtml" id="id221_09" media-type="application/xhtml+xml"/>
+    <item href="xhtml/221.10-sports--plate_production.xhtml" id="id221_10" media-type="application/xhtml+xml"/>
+    <item href="xhtml/221.11-sports--qb_performance.xhtml" id="id221_11" media-type="application/xhtml+xml"/>
+    <item href="xhtml/222-kc_star.xhtml" id="id222" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/223-kc_tornado.xhtml" id="id223" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/224-my_iq--tns_members_-_kansas_missouri.xhtml" id="id224" media-type="application/xhtml+xml"/>
+    <item href="xhtml/225-synesthesia.xhtml" id="id225" media-type="application/xhtml+xml"/>
+    <item href="xhtml/226-poker--games_and_rules.xhtml" id="id226" media-type="application/xhtml+xml"/>
+    <item href="xhtml/227-legal.xhtml" id="id227" media-type="application/xhtml+xml"/>
+    <item href="xhtml/228-joco_ks.xhtml" id="id228" media-type="application/xhtml+xml"/>
+    <item href="xhtml/229-us_financial--lottery.xhtml" id="id229" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/230-911__conspiracies.xhtml" id="id230" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/231-cool_stuff.xhtml" id="id231" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/232-births__deaths.xhtml" id="id232" media-type="application/xhtml+xml"/>
+
+    <item href="css/main.css" id="css" media-type="text/css"/>
+
+    <item href="audio/Dont-Let-Me-Be-Lonely-Tonight-Martin-Manley.mp3" id="id_Dont-Let-Me-Be-Lonely-Tonight-Martin-Manley.mp3" media-type="audio/mpeg"/>
+    <item href="audio/Handy-Man.mp3" id="id_Handy-Man.mp3" media-type="audio/mpeg"/>
+    <item href="audio/Lady.mp3" id="id_Lady.mp3" media-type="audio/mpeg"/>
+    
+    <item href="images/cover.jpg" id="cover-image" properties="cover-image" media-type="image/jpeg"/>
+    <item href="images/003.169160410_std.jpg" id="id_003.169160410_std.jpg" media-type="image/jpeg"/>
+    <item href="images/004.169160638_std.jpg" id="id_004.169160638_std.jpg" media-type="image/jpeg"/>
+    <item href="images/004.194214807_std.jpg" id="id_004.194214807_std.jpg" media-type="image/jpeg"/>
+    <item href="images/004.198184947_std.jpg" id="id_004.198184947_std.jpg" media-type="image/jpeg"/>
+    <item href="images/10_Hammock_Katie.163110517_std.jpg" id="id_10_Hammock_Katie.163110517_std.jpg" media-type="image/jpeg"/>
+    <item href="images/11_Basketball_Marissa.163110207_std.jpg" id="id_11_Basketball_Marissa.163110207_std.jpg" media-type="image/jpeg"/>
+    <item href="images/12_Monkey_Bars_Jaime.163110238_std.jpg" id="id_12_Monkey_Bars_Jaime.163110238_std.jpg" media-type="image/jpeg"/>
+    <item href="images/14_Disc_Swing_Jaime.163110359_std.jpg" id="id_14_Disc_Swing_Jaime.163110359_std.jpg" media-type="image/jpeg"/>
+    <item href="images/15_Slide_Rachel.163110325_std.jpg" id="id_15_Slide_Rachel.163110325_std.jpg" media-type="image/jpeg"/>
+    <item href="images/16_Rings_Jaime.163110930_std.jpg" id="id_16_Rings_Jaime.163110930_std.jpg" media-type="image/jpeg"/>
+    <item href="images/2_Club_House__Porch.163104335_std.jpg" id="id_2_Club_House__Porch.163104335_std.jpg" media-type="image/jpeg"/>
+    <item href="images/3546_001.17504733_std.jpg" id="id_3546_001.17504733_std.jpg" media-type="image/jpeg"/>
+    <item href="images/3546_002.17505144_std.jpg" id="id_3546_002.17505144_std.jpg" media-type="image/jpeg"/>
+    <item href="images/3546_003.17505234_std.jpg" id="id_3546_003.17505234_std.jpg" media-type="image/jpeg"/>
+    <item href="images/3546_004.17512143_std.jpg" id="id_3546_004.17512143_std.jpg" media-type="image/jpeg"/>
+    <item href="images/3546_005.17504619_std.jpg" id="id_3546_005.17504619_std.jpg" media-type="image/jpeg"/>
+    <item href="images/3546_006.17513656_std.jpg" id="id_3546_006.17513656_std.jpg" media-type="image/jpeg"/>
+    <item href="images/3546_007.17514118_std.jpg" id="id_3546_007.17514118_std.jpg" media-type="image/jpeg"/>
+    <item href="images/3546_008.17514623_std.jpg" id="id_3546_008.17514623_std.jpg" media-type="image/jpeg"/>
+    <item href="images/3546_009.17514523_std.jpg" id="id_3546_009.17514523_std.jpg" media-type="image/jpeg"/>
+    <item href="images/3546_010.17514817_std.jpg" id="id_3546_010.17514817_std.jpg" media-type="image/jpeg"/>
+    <item href="images/3546_011.17514742_std.jpg" id="id_3546_011.17514742_std.jpg" media-type="image/jpeg"/>
+    <item href="images/3546_012.17513250_std.jpg" id="id_3546_012.17513250_std.jpg" media-type="image/jpeg"/>
+    <item href="images/3546_013.17513314_std.jpg" id="id_3546_013.17513314_std.jpg" media-type="image/jpeg"/>
+    <item href="images/3546_014.17510628_std.jpg" id="id_3546_014.17510628_std.jpg" media-type="image/jpeg"/>
+    <item href="images/3546_015.17511636_std.jpg" id="id_3546_015.17511636_std.jpg" media-type="image/jpeg"/>
+    <item href="images/3546_016.17513738_std.jpg" id="id_3546_016.17513738_std.jpg" media-type="image/jpeg"/>
+    <item href="images/3546_017.17505753_std.jpg" id="id_3546_017.17505753_std.jpg" media-type="image/jpeg"/>
+    <item href="images/3546_018.17512509_std.jpg" id="id_3546_018.17512509_std.jpg" media-type="image/jpeg"/>
+    <item href="images/3546_019.17511949_std.jpg" id="id_3546_019.17511949_std.jpg" media-type="image/jpeg"/>
+    <item href="images/3546_020.17512601_std.jpg" id="id_3546_020.17512601_std.jpg" media-type="image/jpeg"/>
+    <item href="images/3546_021.17511106_std.jpg" id="id_3546_021.17511106_std.jpg" media-type="image/jpeg"/>
+    <item href="images/3546_022.17511029_std.jpg" id="id_3546_022.17511029_std.jpg" media-type="image/jpeg"/>
+    <item href="images/3546_023.17505620_std.jpg" id="id_3546_023.17505620_std.jpg" media-type="image/jpeg"/>
+    <item href="images/3546_024.17510431_std.jpg" id="id_3546_024.17510431_std.jpg" media-type="image/jpeg"/>
+    <item href="images/3546_025.17503639_std.jpg" id="id_3546_025.17503639_std.jpg" media-type="image/jpeg"/>
+    <item href="images/3546_026.17503410_std.jpg" id="id_3546_026.17503410_std.jpg" media-type="image/jpeg"/>
+    <item href="images/3546_027.17503543_std.jpg" id="id_3546_027.17503543_std.jpg" media-type="image/jpeg"/>
+    <item href="images/3546_028.179195639_std.jpg" id="id_3546_028.179195639_std.jpg" media-type="image/jpeg"/>
+    <item href="images/4_Tire_Swing_Katy.163110857_std.jpg" id="id_4_Tire_Swing_Katy.163110857_std.jpg" media-type="image/jpeg"/>
+    <item href="images/5_Porch_Swing_Three_Kids.163105656_std.jpg" id="id_5_Porch_Swing_Three_Kids.163105656_std.jpg" media-type="image/jpeg"/>
+    <item href="images/6_Access_Hole_Three_Kids.163110105_std.jpg" id="id_6_Access_Hole_Three_Kids.163110105_std.jpg" media-type="image/jpeg"/>
+    <item href="images/7_Rock_Wal_Jaimel.163105908_std.jpg" id="id_7_Rock_Wal_Jaimel.163105908_std.jpg" media-type="image/jpeg"/>
+    <item href="images/8_Three_Swings.163110600_std.jpg" id="id_8_Three_Swings.163110600_std.jpg" media-type="image/jpeg"/>
+    <item href="images/AL_Bundy_by_CJTHECOOL1.191221837_std.jpg" id="id_AL_Bundy_by_CJTHECOOL1.191221837_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Allen_Fieldhouse.179162914_std.jpg" id="id_Allen_Fieldhouse.179162914_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Andy_Griffith.191221550_std.jpg" id="id_Andy_Griffith.191221550_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Arboreteum_and_Police_Station_001.211154822_std.jpg" id="id_Arboreteum_and_Police_Station_001.211154822_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Arboreteum_and_Police_Station_005.211160024_std.jpg" id="id_Arboreteum_and_Police_Station_005.211160024_std.jpg" media-type="image/jpeg"/>
+    <item href="images/BBH1.178122328_std.jpg" id="id_BBH1.178122328_std.jpg" media-type="image/jpeg"/>
+    <item href="images/BBH2.178122354_std.jpg" id="id_BBH2.178122354_std.jpg" media-type="image/jpeg"/>
+    <item href="images/BBH3.178122417_std.jpg" id="id_BBH3.178122417_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Barbie_and_Phil.211162422_std.jpg" id="id_Barbie_and_Phil.211162422_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Chancel_Choir_001.169224711_std.jpg" id="id_Chancel_Choir_001.169224711_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Chancel_Choir_002.169224810_std.jpg" id="id_Chancel_Choir_002.169224810_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Chancel_Choir_003.169224517_std.jpg" id="id_Chancel_Choir_003.169224517_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Chancel_Choir_004.169224547_std.jpg" id="id_Chancel_Choir_004.169224547_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Chancel_Choir_005.169224248_std.jpg" id="id_Chancel_Choir_005.169224248_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Chancel_Choir_006.169224320_std.jpg" id="id_Chancel_Choir_006.169224320_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Cross.223174654_std.jpg" id="id_Cross.223174654_std.jpg" media-type="image/jpeg"/>
+    <item href="images/DEBT.15965751_std.jpg" id="id_DEBT.15965751_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Daddy_service_4.163111733_std.jpg" id="id_Daddy_service_4.163111733_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Daddys_grave_006.185221438_std.jpg" id="id_Daddys_grave_006.185221438_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Daddys_grave_008.185221554_std.jpg" id="id_Daddys_grave_008.185221554_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Economic_cliff.191172724_std.jpg" id="id_Economic_cliff.191172724_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Fedora_Bruno_Mars.163120750_std.jpg" id="id_Fedora_Bruno_Mars.163120750_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Fedora_Jason_Mraz.163120656_std.jpg" id="id_Fedora_Jason_Mraz.163120656_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Fiat.213165436_std.jpg" id="id_Fiat.213165436_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Field_of_Dreams2.166235144_std.jpg" id="id_Field_of_Dreams2.166235144_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Hole_in_One_001.167181547_std.jpg" id="id_Hole_in_One_001.167181547_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Jack_Lord.191221048_std.jpg" id="id_Jack_Lord.191221048_std.jpg" media-type="image/jpeg"/>
+    <item href="images/James_Taylor.162172530_std.jpg" id="id_James_Taylor.162172530_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Kelly_Bundy.191215714_std.jpg" id="id_Kelly_Bundy.191215714_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Kevin_Johnson_dunk.167183050_std.jpg" id="id_Kevin_Johnson_dunk.167183050_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Leavenworth_National_Cemetery.162151221_std.jpg" id="id_Leavenworth_National_Cemetery.162151221_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Lottery_Rip_Off.224184446_std.jpg" id="id_Lottery_Rip_Off.224184446_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Marlin.195125807_std.jpg" id="id_Marlin.195125807_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Martin_Mug_009.194215300_std.jpg" id="id_Martin_Mug_009.194215300_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Martin_Mug_5_004.194220441_std.jpg" id="id_Martin_Mug_5_004.194220441_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Mom_Dad_001.162151607_std.jpg" id="id_Mom_Dad_001.162151607_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Shag_Buffalo.166233406_std.jpg" id="id_Shag_Buffalo.166233406_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Sports_In_Review.191220632_std.jpg" id="id_Sports_In_Review.191220632_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Star_Trek.165143024_std.jpg" id="id_Star_Trek.165143024_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Tom_Williams_001.207201841_std.jpg" id="id_Tom_Williams_001.207201841_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Upon_Further_Review.191220155_std.jpg" id="id_Upon_Further_Review.191220155_std.jpg" media-type="image/jpeg"/>
+    <item href="images/VictoryOLord2.155145350_std.jpg" id="id_VictoryOLord2.155145350_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Victory_O_Lord_005.155145132_std.jpg" id="id_Victory_O_Lord_005.155145132_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Viewfinder_005.167143507_std.jpg" id="id_Viewfinder_005.167143507_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_001.169151631_std.jpg" id="id_family_001.169151631_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_003.169155639_std.jpg" id="id_family_003.169155639_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_004.169165145_std.jpg" id="id_family_004.169165145_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_005.169145708_std.jpg" id="id_family_005.169145708_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_006.169153245_std.jpg" id="id_family_006.169153245_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_007.169154127_std.jpg" id="id_family_007.169154127_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_010.169123447_std.jpg" id="id_family_010.169123447_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_011.169123736_std.jpg" id="id_family_011.169123736_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_012.169153014_std.jpg" id="id_family_012.169153014_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_013.169152338_std.jpg" id="id_family_013.169152338_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_014.169124646_std.jpg" id="id_family_014.169124646_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_015.169123151_std.jpg" id="id_family_015.169123151_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_016.169162305_std.jpg" id="id_family_016.169162305_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_017.169162808_std.jpg" id="id_family_017.169162808_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_018.169162550_std.jpg" id="id_family_018.169162550_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_019.169162434_std.jpg" id="id_family_019.169162434_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_021.169154632_std.jpg" id="id_family_021.169154632_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_022.169154814_std.jpg" id="id_family_022.169154814_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_024.169130204_std.jpg" id="id_family_024.169130204_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_025.169152215_std.jpg" id="id_family_025.169152215_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_026.169153354_std.jpg" id="id_family_026.169153354_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_027.169154027_std.jpg" id="id_family_027.169154027_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_028.169163713_std.jpg" id="id_family_028.169163713_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_029.169163617_std.jpg" id="id_family_029.169163617_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_030.169155545_std.jpg" id="id_family_030.169155545_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_031.169124059_std.jpg" id="id_family_031.169124059_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_032.169141504_std.jpg" id="id_family_032.169141504_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_033.169122623_std.jpg" id="id_family_033.169122623_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_035.169122920_std.jpg" id="id_family_035.169122920_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_036.169141617_std.jpg" id="id_family_036.169141617_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_037.169144118_std.jpg" id="id_family_037.169144118_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_038.169142911_std.jpg" id="id_family_038.169142911_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_039.18703051_std.jpg" id="id_family_039.18703051_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_040.169142541_std.jpg" id="id_family_040.169142541_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_041.169142329_std.jpg" id="id_family_041.169142329_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_042.169165325_std.jpg" id="id_family_042.169165325_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_043.169161550_std.jpg" id="id_family_043.169161550_std.jpg" media-type="image/jpeg"/>
+    <item href="images/family_044.169152850_std.jpg" id="id_family_044.169152850_std.jpg" media-type="image/jpeg"/>
+    <item href="images/kc-star-building.16102459_std.jpg" id="id_kc-star-building.16102459_std.jpg" media-type="image/jpeg"/>
+    <item href="images/kevin-johnson2.167185613_std.jpg" id="id_kevin-johnson2.167185613_std.jpg" media-type="image/jpeg"/>
+    <item href="images/little-shop-of-horrors.166235740_std.jpg" id="id_little-shop-of-horrors.166235740_std.jpg" media-type="image/jpeg"/>
+    <item href="images/miscellaneous_002.18912806_std.jpg" id="id_miscellaneous_002.18912806_std.jpg" media-type="image/jpeg"/>
+    <item href="images/miscellaneous_003.18915444_std.jpg" id="id_miscellaneous_003.18915444_std.jpg" media-type="image/jpeg"/>
+    <item href="images/miscellaneous_004.18915844_std.jpg" id="id_miscellaneous_004.18915844_std.jpg" media-type="image/jpeg"/>
+    <item href="images/miscellaneous_005.18914635_std.jpg" id="id_miscellaneous_005.18914635_std.jpg" media-type="image/jpeg"/>
+    <item href="images/miscellaneous_006.18913341_std.jpg" id="id_miscellaneous_006.18913341_std.jpg" media-type="image/jpeg"/>
+    <item href="images/miscellaneous_007.18913131_std.jpg" id="id_miscellaneous_007.18913131_std.jpg" media-type="image/jpeg"/>
+    <item href="images/miscellaneous_008.197202518_std.jpg" id="id_miscellaneous_008.197202518_std.jpg" media-type="image/jpeg"/>
+    <item href="images/miscellaneous_009.197202433_std.jpg" id="id_miscellaneous_009.197202433_std.jpg" media-type="image/jpeg"/>
+    <item href="images/miscellaneous_010.18911506_std.jpg" id="id_miscellaneous_010.18911506_std.jpg" media-type="image/jpeg"/>
+    <item href="images/nonconformist.182142439_std.jpg" id="id_nonconformist.182142439_std.jpg" media-type="image/jpeg"/>
+    <item href="images/shoes_001.19634709_std.jpg" id="id_shoes_001.19634709_std.jpg" media-type="image/jpeg"/>
+    <item href="images/Tornado-Blog-71.jpg" id="id_Tornado-Blog-71.jpg" media-type="image/jpeg"/>
+    <item href="images/Tornado-Blog-11-150x150.jpg" id="id_Tornado-Blog-11-150x150.jpg" media-type="image/jpeg"/>
+    <item href="images/Tornado-Blog-4-150x150.jpg" id="id_Tornado-Blog-4-150x150.jpg" media-type="image/jpeg"/>
+    <item href="images/Tornado-Blog-2.jpg" id="id_Tornado-Blog-2.jpg" media-type="image/jpeg"/>
+    <item href="images/Tornado-Blog-5-150x150.jpg" id="id_Tornado-Blog-5-150x150.jpg" media-type="image/jpeg"/>
+    <item href="images/Tornado-Blog-3-150x150.jpg" id="id_Tornado-Blog-3-150x150.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id000"/>
+    <itemref idref="id100"/>
+    <itemref idref="id101"/>
+    <itemref idref="id102"/>
+    <itemref idref="id103"/>
+    <itemref idref="id104"/>
+    <itemref idref="id105"/>
+    <itemref idref="id106"/>
+    <itemref idref="id107"/>
+    <itemref idref="id108"/>
+    <itemref idref="id109"/>
+    <itemref idref="id110"/>
+    <itemref idref="id111"/>
+    <itemref idref="id112"/>
+    <itemref idref="id201"/>
+    <itemref idref="id202"/>
+    <itemref idref="id203"/>
+    <itemref idref="id204"/>
+    <itemref idref="id205"/>
+    <itemref idref="id206"/>
+    <itemref idref="id207"/>
+    <itemref idref="id208"/>
+    <itemref idref="id209"/>
+    <itemref idref="id210"/>
+    <itemref idref="id211"/>
+    <itemref idref="id212_00"/>
+    <itemref idref="id212_01"/>
+    <itemref idref="id212_02"/>
+    <itemref idref="id212_03"/>
+    <itemref idref="id212_04"/>
+    <itemref idref="id212_05"/>
+    <itemref idref="id212_06"/>
+    <itemref idref="id212_07"/>
+    <itemref idref="id212_08"/>
+    <itemref idref="id212_09"/>
+    <itemref idref="id213_00"/>
+    <itemref idref="id213_01"/>
+    <itemref idref="id213_02"/>
+    <itemref idref="id213_03"/>
+    <itemref idref="id214_00"/>
+    <itemref idref="id214_01"/>
+    <itemref idref="id214_02"/>
+    <itemref idref="id214_03"/>
+    <itemref idref="id214_04"/>
+    <itemref idref="id214_05"/>
+    <itemref idref="id215"/>
+    <itemref idref="id216"/>
+    <itemref idref="id217"/>
+    <itemref idref="id218"/>
+    <itemref idref="id219"/>
+    <itemref idref="id220_00"/>
+    <itemref idref="id220_01"/>
+    <itemref idref="id220_02"/>
+    <itemref idref="id220_03"/>
+    <itemref idref="id220_04"/>
+    <itemref idref="id220_05"/>
+    <itemref idref="id220_06"/>
+    <itemref idref="id221_00"/>
+    <itemref idref="id221_01"/>
+    <itemref idref="id221_02"/>
+    <itemref idref="id221_03"/>
+    <itemref idref="id221_03_01"/>
+    <itemref idref="id221_04"/>
+    <itemref idref="id221_05"/>
+    <itemref idref="id221_05_01"/>
+    <itemref idref="id221_06"/>
+    <itemref idref="id221_06_01"/>
+    <itemref idref="id221_07"/>
+    <itemref idref="id221_08"/>
+    <itemref idref="id221_08_01"/>
+    <itemref idref="id221_08_02"/>
+    <itemref idref="id221_08_03"/>
+    <itemref idref="id221_08_04"/>
+    <itemref idref="id221_09"/>
+    <itemref idref="id221_10"/>
+    <itemref idref="id221_11"/>
+    <itemref idref="id222"/>
+    <itemref idref="id223"/>
+    <itemref idref="id224"/>
+    <itemref idref="id225"/>
+    <itemref idref="id226"/>
+    <itemref idref="id227"/>
+    <itemref idref="id228"/>
+    <itemref idref="id229"/>
+    <itemref idref="id230"/>
+    <itemref idref="id231"/>
+    <itemref idref="id232"/>
+  </spine>
+  <guide>
+    <reference href="xhtml/000-cover.xhtml" type="cover" title="Book Cover"/>
+    <reference href="toc.xhtml" type="toc" title="Table of content"/>
+    <reference href="xhtml/100-preface.xhtml" type="preface" title="Release of Rights"/>
+    <reference href="xhtml/100-preface.xhtml" type="text" title="Start reading"/>
+  </guide>
+</package>

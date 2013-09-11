@@ -1,0 +1,450 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="a2ac997d-3661-4542-bd66-8884975f81d0" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+  </head>
+
+  <docTitle>
+    <text>My life and death</text>
+  </docTitle>
+
+  <docAuthor>
+    <text>Martin Manley</text>
+  </docAuthor>
+
+  <navMap>
+    
+    <navPoint id="6c58ae1d-c544-4a37-984e-26dda5799f31" playOrder="1">
+        <navLabel><text>Release of Rights</text></navLabel>
+        <content src="xhtml/100-preface.xhtml"/>
+    </navPoint>
+
+    <navPoint id="a5ea3f81-bdcb-4d83-aac6-04b304124418" playOrder="2">
+        <navLabel><text>Home</text></navLabel>
+        <content src="xhtml/101-home_page.xhtml"/>
+    </navPoint>
+
+    <navPoint id="923cacd8-a4e4-4ba9-8998-9e4ae1cfbc0d" playOrder="3">
+        <navLabel><text>January 1, 2012</text></navLabel>
+        <content src="xhtml/102-january_1_2012.xhtml"/>
+    </navPoint>
+
+    <navPoint id="bb306ecf-35b2-4f8f-a5b4-f3c1ac970a36" playOrder="4">
+        <navLabel><text>I AM NOT A CONFORMIST</text></navLabel>
+        <content src="xhtml/103-june_11_2012--i_am_not_a_conformist.xhtml"/>
+    </navPoint>
+
+    <navPoint id="2b7f2829-abee-4842-bbf5-0f20aaa580c0" playOrder="5">
+        <navLabel><text>SUICIDE Preface</text></navLabel>
+        <content src="xhtml/104-suicide_preface.xhtml"/>
+    </navPoint>
+
+    <navPoint id="308a6568-f16d-4b68-80b6-1e4f65075e51" playOrder="6">
+        <navLabel><text>Why suicide?</text></navLabel>
+        <content src="xhtml/105-why_suicide.xhtml"/>
+    </navPoint>
+
+    <navPoint id="c690beda-ab63-48c1-958f-6845dd38c9ea" playOrder="7">
+        <navLabel><text>Why not?</text></navLabel>
+        <content src="xhtml/106-why_not.xhtml"/>
+    </navPoint>
+
+    <navPoint id="e2c16f17-09bd-40df-9ffe-5136d42231f0" playOrder="8">
+        <navLabel><text>Why Age 60?</text></navLabel>
+        <content src="xhtml/107-why_age_60.xhtml"/>
+    </navPoint>
+
+    <navPoint id="565f1a6d-13fe-45ca-9fa2-83345799974d" playOrder="9">
+        <navLabel><text>Self-Serving?</text></navLabel>
+        <content src="xhtml/108-self-serving.xhtml"/>
+    </navPoint>
+
+    <navPoint id="02f9c091-9a37-42a3-897a-0034c270e682" playOrder="10">
+        <navLabel><text>SuIcide - How TO</text></navLabel>
+        <content src="xhtml/109-suicide_-_how_2.xhtml"/>
+    </navPoint>
+
+    <navPoint id="73f69da8-6d45-4d0a-b163-d9eaac78fcd6" playOrder="11">
+        <navLabel><text>Gun Control</text></navLabel>
+        <content src="xhtml/110-gun_control.xhtml"/>
+    </navPoint>
+
+    <navPoint id="17d9292c-6568-4df5-b266-407928b29a01" playOrder="12">
+        <navLabel><text>Other SUICIDES</text></navLabel>
+        <content src="xhtml/111-other_suicides.xhtml"/>
+    </navPoint>
+
+    <navPoint id="e1c51ae0-2a9e-466f-8d7c-ca71991c729d" playOrder="13">
+        <navLabel><text>Quotes</text></navLabel>
+        <content src="xhtml/112-other_quotes.xhtml"/>
+    </navPoint>
+
+    <navPoint id="8f9b551f-1ef9-44e8-8bb2-9500b20abd44" playOrder="14">
+        <navLabel><text>GROWING UP</text></navLabel>
+        <content src="xhtml/201-growing_up.xhtml"/>
+    </navPoint>
+
+    <navPoint id="878cdae4-cc16-4b23-b8b0-bf7cb8df5a7c" playOrder="15">
+        <navLabel><text>OMG: I look 60!</text></navLabel>
+        <content src="xhtml/202-omg_i_look_60.xhtml"/>
+    </navPoint>
+
+    <navPoint id="1b2379fa-0d24-48c0-82c2-26726a735609" playOrder="16">
+        <navLabel><text>Mom and Dad</text></navLabel>
+        <content src="xhtml/203-mom_and_dad.xhtml"/>
+    </navPoint>
+
+    <navPoint id="9185b65f-ce08-4214-a7ed-79c66790f6a9" playOrder="17">
+        <navLabel><text>The Heavens</text></navLabel>
+        <content src="xhtml/204-the_heavens.xhtml"/>
+    </navPoint>
+
+    <navPoint id="3b6e4cb9-776c-418d-963f-8cd86121bc78" playOrder="18">
+        <navLabel><text>My Religion</text></navLabel>
+        <content src="xhtml/205-my_religion.xhtml"/>
+    </navPoint>
+
+    <navPoint id="c5241ee5-1b23-4d3e-a14a-3d8bda7eb35a" playOrder="19">
+        <navLabel><text>CHANCEL Choir</text></navLabel>
+        <content src="xhtml/206-chancel_choir.xhtml"/>
+    </navPoint>
+
+    <navPoint id="80f58dc4-8720-4411-ac02-f466d44c0219" playOrder="20">
+        <navLabel><text>Victory O Lord</text></navLabel>
+        <content src="xhtml/207-victory_o_lord.xhtml"/>
+    </navPoint>
+
+    <navPoint id="07839e0e-63c7-44e1-b767-5c18f710090d" playOrder="21">
+        <navLabel><text>The Proposal</text></navLabel>
+        <content src="xhtml/208-the_proposal.xhtml"/>
+    </navPoint>
+
+    <navPoint id="d528c745-9c0c-4afc-be6c-ccd02b07e057" playOrder="22">
+        <navLabel><text>Marriages</text></navLabel>
+        <content src="xhtml/209-two_marriages.xhtml"/>
+    </navPoint>
+
+    <navPoint id="96bab58e-4fab-401a-954d-fb6c13f275e7" playOrder="23">
+        <navLabel><text>First Two Loves</text></navLabel>
+        <content src="xhtml/210-first_two_loves.xhtml"/>
+    </navPoint>
+
+    <navPoint id="c22bd0ea-80b3-4bfc-bdd9-35aa3977b1af" playOrder="24">
+        <navLabel><text>Pictures</text></navLabel>
+        <content src="xhtml/211-pictures.xhtml"/>
+    </navPoint>
+
+    <navPoint id="18f3e734-3b51-4ec5-8f4b-6388465ae8b7" playOrder="25">
+        <navLabel><text>Trips and Travel</text></navLabel>
+        <content src="xhtml/212.00-trips_and_travel.xhtml"/>
+
+        <navPoint id="e08b1ce5-793d-497d-b30c-720411e15114" playOrder="26">
+            <navLabel><text>Honeymoon...s</text></navLabel>
+            <content src="xhtml/212.01-trips_and_travel--honeymoons.xhtml"/>
+        </navPoint>
+
+        <navPoint id="ce7ed515-2aed-4ccd-aaaf-8b081adc6484" playOrder="27">
+            <navLabel><text>Flying</text></navLabel>
+            <content src="xhtml/212.02-trips_and_travel--flying.xhtml"/>
+        </navPoint>
+
+        <navPoint id="2dcb335f-d66c-467f-9862-d673c7704198" playOrder="28">
+            <navLabel><text>X-Files</text></navLabel>
+            <content src="xhtml/212.03-trips_and_travel--x-files.xhtml"/>
+        </navPoint>
+
+        <navPoint id="ec0a65bc-f82c-49bc-9de2-3118c46818e4" playOrder="29">
+            <navLabel><text>Canada &amp; Mexico</text></navLabel>
+            <content src="xhtml/212.04-trips_and_travel--canada__mexico.xhtml"/>
+        </navPoint>
+
+        <navPoint id="e91134f2-e4aa-4985-aad4-0ae0a25ca6ce" playOrder="30">
+            <navLabel><text>COLORADO 1970</text></navLabel>
+            <content src="xhtml/212.05-trips_and_travel--colorado_1970.xhtml"/>
+        </navPoint>
+
+        <navPoint id="ffed9e0a-9333-4760-84fe-1fcb45fc47c3" playOrder="31">
+            <navLabel><text>FLORIDA 1973</text></navLabel>
+            <content src="xhtml/212.06-trips_and_travel--florida_1973.xhtml"/>
+        </navPoint>
+
+        <navPoint id="dd3194d9-c842-4a5d-b652-b6d1a2d6183e" playOrder="32">
+            <navLabel><text>COLORADO 1985</text></navLabel>
+            <content src="xhtml/212.07-trips_and_travel--colorado_1985.xhtml"/>
+        </navPoint>
+
+        <navPoint id="9b8ab244-66df-4f55-b804-5ef96f818016" playOrder="33">
+            <navLabel><text>HOUSTON 1990</text></navLabel>
+            <content src="xhtml/212.08-trips_and_travel--houston_1990.xhtml"/>
+        </navPoint>
+
+        <navPoint id="40cc46c1-bf0b-4966-b287-e511e7167ae6" playOrder="34">
+            <navLabel><text>FLORIDA 2004</text></navLabel>
+            <content src="xhtml/212.09-trips_and_travel--florida_2004.xhtml"/>
+        </navPoint>
+    </navPoint>
+
+    <navPoint id="a1a38d4e-367c-4db1-bbae-0ee57f0bf31c" playOrder="35">
+        <navLabel><text>Writing Fiction</text></navLabel>
+        <content src="xhtml/213.00-writing_fiction.xhtml"/>
+
+        <navPoint id="d91f95cf-c546-44f6-9811-27ec7e58df7b" playOrder="36">
+            <navLabel><text>Ring of Truth</text></navLabel>
+            <content src="xhtml/213.01-writing_fiction--ring_of_truth.xhtml"/>
+        </navPoint>
+
+        <navPoint id="c66e751a-9179-4598-b38a-823ceab3fbc2" playOrder="37">
+            <navLabel><text>Ring Of Truth Cheat Sheet</text></navLabel>
+            <content src="xhtml/213.02-writing_fiction--rot_cheat_sheet.xhtml"/>
+        </navPoint>
+
+        <navPoint id="17a66068-d359-4488-96cc-e1f10851bc82" playOrder="38">
+            <navLabel><text>WHO WOULD PLAY IN IT?</text></navLabel>
+            <content src="xhtml/213.03-writing_fiction--who_would_play.xhtml"/>
+        </navPoint>
+    </navPoint>
+
+    <navPoint id="968c55f9-1fd8-4907-a473-c5474d56f824" playOrder="39">
+        <navLabel><text>Music &amp; Poetry</text></navLabel>
+        <content src="xhtml/214.00-music__poetry.xhtml"/>
+
+        <navPoint id="5170b7d9-247b-4b8c-b8af-59ac9f8d61fb" playOrder="40">
+            <navLabel><text>James Taylor, Jason Mraz, Bruno Mars</text></navLabel>
+            <content src="xhtml/214.01-music__poetry--james_taylor_et_al.xhtml"/>
+        </navPoint>
+        
+        <navPoint id="fd5006f1-01ed-4a4e-bd28-1247a2d60d7a" playOrder="41">
+            <navLabel><text>Duets</text></navLabel>
+            <content src="xhtml/214.02-music__poetry--duets.xhtml"/>
+        </navPoint>
+
+        <navPoint id="41447093-5fa6-4d99-a00a-22265a688036" playOrder="42">
+            <navLabel><text>My recordings</text></navLabel>
+            <content src="xhtml/214.03-music__poetry--my_recordings.xhtml"/>
+        </navPoint>
+
+        <navPoint id="38dd1a9f-3309-4204-a96f-75fc148e223c" playOrder="43">
+            <navLabel><text>My songs</text></navLabel>
+            <content src="xhtml/214.04-music__poetry--my_songs.xhtml"/>
+        </navPoint>
+
+        <navPoint id="14526687-9c86-4a68-9685-556b8a656f1e" playOrder="44">
+            <navLabel><text>My Poetry</text></navLabel>
+            <content src="xhtml/214.05-music__poetry--my_poems.xhtml"/>
+        </navPoint>
+    </navPoint>
+
+    <navPoint id="8ec6a1a3-6408-4a5f-8849-bac143869caf" playOrder="45">
+        <navLabel><text>Movies &amp; TV</text></navLabel>
+        <content src="xhtml/215-movies__tv.xhtml"/>
+    </navPoint>
+
+    <navPoint id="84926550-2a47-48af-a25a-673ffe1c9890" playOrder="46">
+        <navLabel><text>Health</text></navLabel>
+        <content src="xhtml/216-health.xhtml"/>
+    </navPoint>
+
+    <navPoint id="5d414f09-3475-4427-9e4e-7c1c99692ac6" playOrder="47">
+        <navLabel><text>Sleep Deprivation</text></navLabel>
+        <content src="xhtml/217-sleep_deprived.xhtml"/>
+    </navPoint>
+
+    <navPoint id="e7a9ee5b-29ee-43ba-9df0-6151902a4e27" playOrder="48">
+        <navLabel><text>Living Donor</text></navLabel>
+        <content src="xhtml/218-living_donor.xhtml"/>
+    </navPoint>
+
+    <navPoint id="240342e9-7d1e-4a2a-8d9a-2912ef5dbe01" playOrder="49">
+        <navLabel><text>Food &amp; Drink</text></navLabel>
+        <content src="xhtml/219-food__drink.xhtml"/>
+    </navPoint>
+
+    <navPoint id="8a3ed79b-ba2f-441e-88b7-cf31148179a2" playOrder="50">
+        <navLabel><text>Creations</text></navLabel>
+        <content src="xhtml/220.00-creations.xhtml"/>
+
+        <navPoint id="2d5444c1-bbfa-4125-83cb-02cce1766440" playOrder="51">
+            <navLabel><text>Viewfinder and Microwave Maps</text></navLabel>
+            <content src="xhtml/220.01-creations--satellite_tv.xhtml"/>
+        </navPoint>
+
+        <navPoint id="02bbe118-268b-4b26-bb0c-f416b8ce9467" playOrder="52">
+            <navLabel><text>Playground</text></navLabel>
+            <content src="xhtml/220.02-creations--playground.xhtml"/>
+        </navPoint>
+
+        <navPoint id="4d9888a8-ff68-4c35-ac3c-cc382456582f" playOrder="53">
+            <navLabel><text>3546 SW 35th Terrace</text></navLabel>
+            <content src="xhtml/220.03-creations--3546_sw_35th.xhtml"/>
+        </navPoint>
+
+        <navPoint id="930ec5c7-1a4c-4e68-995c-4feea93f4fe1" playOrder="54">
+            <navLabel><text>Cat House</text></navLabel>
+            <content src="xhtml/220.04-creations--cat_house.xhtml"/>
+        </navPoint>
+
+        <navPoint id="80329437-5380-4cfe-8953-a08ba894e487" playOrder="55">
+            <navLabel><text>Women&#x27;s Professional Softball League</text></navLabel>
+            <content src="xhtml/220.05-creations--wpsl.xhtml"/>
+        </navPoint>
+
+        <navPoint id="0e7bdff8-6c0c-4de8-98c6-7f1e1c45d6e2" playOrder="56">
+            <navLabel><text>Tabernacle</text></navLabel>
+            <content src="xhtml/220.06-creations--tabernacle.xhtml"/>
+        </navPoint>
+    </navPoint>
+
+    <navPoint id="4173711a-1587-41ae-bf44-43d8c8f43753" playOrder="57">
+        <navLabel><text>Sports</text></navLabel>
+        <content src="xhtml/221.00-sports.xhtml"/>
+                 
+        <navPoint id="9a6ed2a6-9101-471c-9fb9-af12181dbc6b" playOrder="58">
+            <navLabel><text>My best and worst</text></navLabel>
+            <content src="xhtml/221.01-sports--my_best_and_worst.xhtml"/>
+        </navPoint>
+
+        <navPoint id="b804205e-f138-45c3-ab6e-7d51dcb497ec" playOrder="59">
+            <navLabel><text>Activities</text></navLabel>
+            <content src="xhtml/221.02-sports--activities.xhtml"/>
+        </navPoint>
+
+        <navPoint id="3f138a47-faeb-4a3b-988e-2c1986dcdd6d" playOrder="60">
+            <navLabel><text>&quot;Basketball Heaven&quot; Books</text></navLabel>
+            <content src="xhtml/221.03-sports--basketball_heaven.xhtml"/>
+        </navPoint>
+
+        <navPoint id="bba1fac2-f854-4866-b6ec-3d0586fe373d" playOrder="61">
+            <navLabel><text>BBH Quotes</text></navLabel>
+            <content src="xhtml/221.03.01-sports--bbh_quotes.xhtml"/>
+        </navPoint>
+
+        <navPoint id="7aca7f77-7158-4d69-b76c-d40880f1ad2a" playOrder="62">
+            <navLabel><text>UFR &amp; SIR</text></navLabel>
+            <content src="xhtml/221.04-sports--sports_in_review.xhtml"/>
+        </navPoint>
+
+        <navPoint id="119e8ca5-b454-463a-b30c-4d161f944d1b" playOrder="63">
+            <navLabel><text>Kansas Basketball</text></navLabel>
+            <content src="xhtml/221.05-sports--kansas_basketball.xhtml"/>
+
+            <navPoint id="96a7ddb2-7f1a-4158-9e63-97b907cf62ba" playOrder="64">
+                <navLabel><text>KU&#x27;s Championship Run</text></navLabel>
+                <content src="xhtml/221.05.01-sports--ku_championship_run.xhtml"/>
+            </navPoint>
+        </navPoint>
+
+        <navPoint id="541d3dac-bed5-4761-8f19-32b2ea863651" playOrder="65">
+            <navLabel><text>Kansas City Chiefs &amp; Royals</text></navLabel>
+            <content src="xhtml/221.06-sports--kc_chiefs__royals.xhtml"/>
+
+            <navPoint id="fa60d4b4-ae0e-4e92-9604-566c55d849fd" playOrder="66">
+                <navLabel><text>ALMOST historical</text></navLabel>
+                <content src="xhtml/221.06.01-sports--almost_historical.xhtml"/>
+            </navPoint>
+        </navPoint>
+
+        <navPoint id="1ea081d3-2eb1-4fb0-97af-42c7b2779a8d" playOrder="67">
+            <navLabel><text>Kevin Johnson</text></navLabel>
+            <content src="xhtml/221.07-sports--kevin_johnson.xhtml"/>
+        </navPoint>
+
+        <navPoint id="728a5990-a95e-475c-b8d6-5900fd590770" playOrder="68">
+            <navLabel><text>Sports and Race</text></navLabel>
+            <content src="xhtml/221.08-sports--sports_and_race.xhtml"/>
+
+            <navPoint id="2b1d5a89-2a32-4e21-a3a2-91216de2eb04" playOrder="69">
+                <navLabel><text>Jimmy The Greek</text></navLabel>
+                <content src="xhtml/221.08.01-sports--jimmy_the_greek.xhtml"/>
+            </navPoint>
+
+            <navPoint id="1937be1b-49af-4cf9-a6df-8dc63d37bdd6" playOrder="70">
+                <navLabel><text>RACE</text></navLabel>
+                <content src="xhtml/221.08.02-sports--race.xhtml"/>
+            </navPoint>
+
+            <navPoint id="980fd958-935e-4a68-879c-6680b80f0fc0" playOrder="71">
+                <navLabel><text>OJ Justice</text></navLabel>
+                <content src="xhtml/221.08.03-sports--oj_justice.xhtml"/>
+            </navPoint>
+
+            <navPoint id="8d3ceb49-b403-4477-82d2-765c1d568893" playOrder="72">
+                <navLabel><text>Standing for the National Anthem</text></navLabel>
+                <content src="xhtml/221.08.04-sports--standing_for_the_national_anthem.xhtml"/>
+            </navPoint>
+        </navPoint>
+
+        <navPoint id="6c17f905-3107-4252-8580-d9c5898cebcc" playOrder="73">
+            <navLabel><text>Efficiency Rating</text></navLabel>
+            <content src="xhtml/221.09-sports--efficiency_rating.xhtml"/>
+        </navPoint>
+
+        <navPoint id="bbaa0fba-a7ae-4bd3-a891-d42fdd500b31" playOrder="74">
+            <navLabel><text>Plate Production and PLATE PERFORMANCE</text></navLabel>
+            <content src="xhtml/221.10-sports--plate_production.xhtml"/>
+        </navPoint>
+
+        <navPoint id="380694ed-634d-474a-93e6-385a7356559c" playOrder="75">
+            <navLabel><text>QB Performance Rating (QBP)</text></navLabel>
+            <content src="xhtml/221.11-sports--qb_performance.xhtml"/>
+        </navPoint>
+    </navPoint>
+
+    <navPoint id="36768d9a-ab09-4c12-a58d-84d29411b709" playOrder="76">
+        <navLabel><text>Kansas City Star</text></navLabel>
+        <content src="xhtml/222-kc_star.xhtml"/>
+    </navPoint>
+
+    <navPoint id="a4002c44-b553-4927-990c-d4c44cb28acf" playOrder="77">
+        <navLabel><text>Tornado AT THE WOODLANDS</text></navLabel>
+        <content src="xhtml/223-kc_tornado.xhtml"/>
+    </navPoint>
+
+    <navPoint id="6ce7ed21-d08e-4074-a741-f89ea8a42bd6" playOrder="78">
+        <navLabel><text>TNS Members - Kansas, Missouri</text></navLabel>
+        <content src="xhtml/224-my_iq--tns_members_-_kansas_missouri.xhtml"/>
+    </navPoint>
+
+    <navPoint id="43dca46b-e4e7-4757-bc8b-0f2d5c7421ee" playOrder="79">
+        <navLabel><text>Synesthesia</text></navLabel>
+        <content src="xhtml/225-synesthesia.xhtml"/>
+    </navPoint>
+
+    <navPoint id="fd9f1478-e152-4e75-8303-a49f00a2133d" playOrder="80">
+        <navLabel><text>Poker Games and Rules</text></navLabel>
+        <content src="xhtml/226-poker--games_and_rules.xhtml"/>
+    </navPoint>
+
+    <navPoint id="e675a24e-ea48-462b-a3bd-2c49e48afa07" playOrder="81">
+        <navLabel><text>Legal</text></navLabel>
+        <content src="xhtml/227-legal.xhtml"/>
+    </navPoint>
+
+    <navPoint id="2386ae4b-d8c4-4fd1-9da0-f2bb26f33e49" playOrder="82">
+        <navLabel><text>Johnson County, Ks.</text></navLabel>
+        <content src="xhtml/228-joco_ks.xhtml"/>
+    </navPoint>
+
+    <navPoint id="3c376815-a8e7-434c-85d9-614d4af01942" playOrder="83">
+        <navLabel><text>U.S. Financial</text></navLabel>
+        <content src="xhtml/229-us_financial--lottery.xhtml"/>
+    </navPoint>
+
+    <navPoint id="3ef7004e-2819-428b-972d-65f98a9c568e" playOrder="84">
+        <navLabel><text>911 &amp; Conspiracy theories...</text></navLabel>
+        <content src="xhtml/230-911__conspiracies.xhtml"/>
+    </navPoint>
+
+    <navPoint id="db47cbea-d495-48d3-ac6c-10f71297ceac" playOrder="85">
+        <navLabel><text>COOL STUFF</text></navLabel>
+        <content src="xhtml/231-cool_stuff.xhtml"/>
+    </navPoint>
+
+    <navPoint id="aed86edb-a559-4312-b1e3-3ff78e4700b3" playOrder="86">
+        <navLabel><text>Births, DEATHS &amp; Events</text></navLabel>
+        <content src="xhtml/232-births__deaths.xhtml"/>
+    </navPoint>
+
+  </navMap>
+
+</ncx>
