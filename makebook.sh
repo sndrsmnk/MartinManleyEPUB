@@ -41,7 +41,7 @@ if [ ! -z "$device" ]; then
         sudo mkdir -p /mnt/pt1
         sudo mount /dev/disk/by-id/$device /mnt/pt1
         sudo mkdir -p /mnt/pt1/documents/Manley,\ Martin/
-        sudo cp Martin_Manley-My_life_and_death-$tool.mobi /mnt/pt1/documents/Manley,\ Martin/Martin_Manley-My_life_and_death.mobi
+        sudo cp Martin_Manley-My_life_and_death.mobi /mnt/pt1/documents/Manley,\ Martin/Martin_Manley-My_life_and_death.mobi
         sudo eject /dev/disk/by-id/$device
     fi
 fi
