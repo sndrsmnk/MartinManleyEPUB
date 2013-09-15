@@ -1,5 +1,7 @@
 #!/bin/sh
 
+
+kindlegen=$(which kindlegen)
 zip=$(which zip)
 if [ ! -x "$zip" ]; then
     echo "zip utility not found."
@@ -7,27 +9,25 @@ if [ ! -x "$zip" ]; then
 fi
 echo "zip utility found as '$zip'"
 
-kindlegen=$(which kindlegen)
-if [ ! -x "$kindlegen" ]; then
-    echo "Amazon 'kindlegen' utility not in path."
-    exit
-fi
 
 cd epub_root
 zip -qX0 ../../Martin_Manley-My_life_and_death.epub mimetype
 zip -qXur9D ../../Martin_Manley-My_life_and_death.epub *
 
-cd ../../
+
 if [ ! -x "$kindlegen" ]; then
     echo "Amazon 'kindlegen' utility not found."
 else
+    cd ../../
     $kindlegen Martin_Manley-My_life_and_death.epub
 fi
+
 
 if [ ! -e "Martin_Manley-My_life_and_death.mobi" ]; then
     echo "No .mobi version found?"
     exit 1
 fi
+
 
 # FIXME now we just assume kindle is not in use / mounted :O
 device=$(grep -il "amazon kindle" /sys/bus/usb/devices/*/product | sed -e 's#/product.*##')
