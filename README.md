@@ -13,7 +13,8 @@ Background info: http://knowyourmeme.com/memes/events/martin-manleys-death
 
 > "Today is August 15, 2013. Today is my 60th birthday. Today is the last day of my life. Today, I committed suicide. Today, is the first day this site is active, but it will be here for years to come."
 
-Unfortunately, Yahoo! thought different of the 'years to come'. The site went offline not long after Martin Manley put it online.
+Unfortunately, Yahoo! thought different of the 'years to come'.  
+The site went offline not long after Martin Manley put it online.
 
 This GIT repo builds into an EPUB ebook version of Martin Manley's story.
 
