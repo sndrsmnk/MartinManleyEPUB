@@ -23,32 +23,33 @@
     <item href="toc.xhtml" id="toc" properties="nav" media-type="application/xhtml+xml"/>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
 
-    <item href="xhtml/000-cover.xhtml" id="idcover" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/000-cover.xhtml" id="idcover" media-type="application/xhtml+xml"/>
+    <item href="xhtml/000-pictures.xhtml" id="idpictures" media-type="application/xhtml+xml"/>
     <item href="xhtml/000-toc.xhtml" id="id000" media-type="application/xhtml+xml"/>
     <item href="xhtml/100-preface.xhtml" id="id100" media-type="application/xhtml+xml"/>
     <item href="xhtml/101-home_page.xhtml" id="id101" media-type="application/xhtml+xml"/>
     <item href="xhtml/102-january_1_2012.xhtml" id="id102" media-type="application/xhtml+xml"/>
-    <item href="xhtml/103-june_11_2012--i_am_not_a_conformist.xhtml" id="id103" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/103-june_11_2012--i_am_not_a_conformist.xhtml" id="id103" media-type="application/xhtml+xml"/>
     <item href="xhtml/104-suicide_preface.xhtml" id="id104" media-type="application/xhtml+xml"/>
     <item href="xhtml/105-why_suicide.xhtml" id="id105" media-type="application/xhtml+xml"/>
     <item href="xhtml/106-why_not.xhtml" id="id106" media-type="application/xhtml+xml"/>
-    <item href="xhtml/107-why_age_60.xhtml" id="id107" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/107-why_age_60.xhtml" id="id107" media-type="application/xhtml+xml"/>
     <item href="xhtml/108-self-serving.xhtml" id="id108" media-type="application/xhtml+xml"/>
-    <item href="xhtml/109-suicide_-_how_2.xhtml" id="id109" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/109-suicide_-_how_2.xhtml" id="id109" media-type="application/xhtml+xml"/>
     <item href="xhtml/110-gun_control.xhtml" id="id110" media-type="application/xhtml+xml"/>
     <item href="xhtml/111-other_suicides.xhtml" id="id111" media-type="application/xhtml+xml"/>
     <item href="xhtml/112-other_quotes.xhtml" id="id112" media-type="application/xhtml+xml"/>
-    <item href="xhtml/201-growing_up.xhtml" id="id201" media-type="application/xhtml+xml" properties="svg"/>
-    <item href="xhtml/202-omg_i_look_60.xhtml" id="id202" media-type="application/xhtml+xml" properties="svg"/>
-    <item href="xhtml/203-mom_and_dad.xhtml" id="id203" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/201-growing_up.xhtml" id="id201" media-type="application/xhtml+xml"/>
+    <item href="xhtml/202-omg_i_look_60.xhtml" id="id202" media-type="application/xhtml+xml"/>
+    <item href="xhtml/203-mom_and_dad.xhtml" id="id203" media-type="application/xhtml+xml"/>
     <item href="xhtml/204-the_heavens.xhtml" id="id204" media-type="application/xhtml+xml"/>
-    <item href="xhtml/205-my_religion.xhtml" id="id205" media-type="application/xhtml+xml" properties="svg"/>
-    <item href="xhtml/206-chancel_choir.xhtml" id="id206" media-type="application/xhtml+xml" properties="svg"/>
-    <item href="xhtml/207-victory_o_lord.xhtml" id="id207" media-type="application/xhtml+xml" properties="svg"/>
-    <item href="xhtml/208-the_proposal.xhtml" id="id208" media-type="application/xhtml+xml" properties="svg"/>
-    <item href="xhtml/209-two_marriages.xhtml" id="id209" media-type="application/xhtml+xml" properties="svg"/>
-    <item href="xhtml/210-first_two_loves.xhtml" id="id210" media-type="application/xhtml+xml" properties="svg"/>
-    <item href="xhtml/211-pictures.xhtml" id="id211" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/205-my_religion.xhtml" id="id205" media-type="application/xhtml+xml"/>
+    <item href="xhtml/206-chancel_choir.xhtml" id="id206" media-type="application/xhtml+xml"/>
+    <item href="xhtml/207-victory_o_lord.xhtml" id="id207" media-type="application/xhtml+xml"/>
+    <item href="xhtml/208-the_proposal.xhtml" id="id208" media-type="application/xhtml+xml"/>
+    <item href="xhtml/209-two_marriages.xhtml" id="id209" media-type="application/xhtml+xml"/>
+    <item href="xhtml/210-first_two_loves.xhtml" id="id210" media-type="application/xhtml+xml"/>
+    <item href="xhtml/211-pictures.xhtml" id="id211" media-type="application/xhtml+xml"/>
     <item href="xhtml/212.00-trips_and_travel.xhtml" id="id212_00" media-type="application/xhtml+xml"/>
     <item href="xhtml/212.01-trips_and_travel--honeymoons.xhtml" id="id212_01" media-type="application/xhtml+xml"/>
     <item href="xhtml/212.02-trips_and_travel--flying.xhtml" id="id212_02" media-type="application/xhtml+xml"/>
@@ -57,41 +58,41 @@
     <item href="xhtml/212.05-trips_and_travel--colorado_1970.xhtml" id="id212_05" media-type="application/xhtml+xml"/>
     <item href="xhtml/212.06-trips_and_travel--florida_1973.xhtml" id="id212_06" media-type="application/xhtml+xml"/>
     <item href="xhtml/212.07-trips_and_travel--colorado_1985.xhtml" id="id212_07" media-type="application/xhtml+xml"/>
-    <item href="xhtml/212.08-trips_and_travel--houston_1990.xhtml" id="id212_08" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/212.08-trips_and_travel--houston_1990.xhtml" id="id212_08" media-type="application/xhtml+xml"/>
     <item href="xhtml/212.09-trips_and_travel--florida_2004.xhtml" id="id212_09" media-type="application/xhtml+xml"/>
     <item href="xhtml/213.00-writing_fiction.xhtml" id="id213_00" media-type="application/xhtml+xml"/>
     <item href="xhtml/213.01-writing_fiction--ring_of_truth.xhtml" id="id213_01" media-type="application/xhtml+xml"/>
     <item href="xhtml/213.02-writing_fiction--rot_cheat_sheet.xhtml" id="id213_02" media-type="application/xhtml+xml"/>
-    <item href="xhtml/213.03-writing_fiction--who_would_play.xhtml" id="id213_03" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/213.03-writing_fiction--who_would_play.xhtml" id="id213_03" media-type="application/xhtml+xml"/>
     <item href="xhtml/214.00-music__poetry.xhtml" id="id214_00" media-type="application/xhtml+xml"/>
-    <item href="xhtml/214.01-music__poetry--james_taylor_et_al.xhtml" id="id214_01" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/214.01-music__poetry--james_taylor_et_al.xhtml" id="id214_01" media-type="application/xhtml+xml"/>
     <item href="xhtml/214.02-music__poetry--duets.xhtml" id="id214_02" media-type="application/xhtml+xml"/>
     <item href="xhtml/214.03-music__poetry--my_recordings.xhtml" id="id214_03" media-type="application/xhtml+xml"/>
     <item href="xhtml/214.04-music__poetry--my_songs.xhtml" id="id214_04" media-type="application/xhtml+xml"/>
-    <item href="xhtml/214.05-music__poetry--my_poems.xhtml" id="id214_05" media-type="application/xhtml+xml" properties="svg"/>
-    <item href="xhtml/215-movies__tv.xhtml" id="id215" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/214.05-music__poetry--my_poems.xhtml" id="id214_05" media-type="application/xhtml+xml"/>
+    <item href="xhtml/215-movies__tv.xhtml" id="id215" media-type="application/xhtml+xml"/>
     <item href="xhtml/216-health.xhtml" id="id216" media-type="application/xhtml+xml"/>
     <item href="xhtml/217-sleep_deprived.xhtml" id="id217" media-type="application/xhtml+xml"/>
     <item href="xhtml/218-living_donor.xhtml" id="id218" media-type="application/xhtml+xml"/>
     <item href="xhtml/219-food__drink.xhtml" id="id219" media-type="application/xhtml+xml"/>
     <item href="xhtml/220.00-creations.xhtml" id="id220_00" media-type="application/xhtml+xml"/>
-    <item href="xhtml/220.01-creations--satellite_tv.xhtml" id="id220_01" media-type="application/xhtml+xml" properties="svg"/>
-    <item href="xhtml/220.02-creations--playground.xhtml" id="id220_02" media-type="application/xhtml+xml" properties="svg"/>
-    <item href="xhtml/220.03-creations--3546_sw_35th.xhtml" id="id220_03" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/220.01-creations--satellite_tv.xhtml" id="id220_01" media-type="application/xhtml+xml"/>
+    <item href="xhtml/220.02-creations--playground.xhtml" id="id220_02" media-type="application/xhtml+xml"/>
+    <item href="xhtml/220.03-creations--3546_sw_35th.xhtml" id="id220_03" media-type="application/xhtml+xml"/>
     <item href="xhtml/220.04-creations--cat_house.xhtml" id="id220_04" media-type="application/xhtml+xml"/>
     <item href="xhtml/220.05-creations--wpsl.xhtml" id="id220_05" media-type="application/xhtml+xml"/>
-    <item href="xhtml/220.06-creations--tabernacle.xhtml" id="id220_06" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/220.06-creations--tabernacle.xhtml" id="id220_06" media-type="application/xhtml+xml"/>
     <item href="xhtml/221.00-sports.xhtml" id="id221_00" media-type="application/xhtml+xml"/>
-    <item href="xhtml/221.01-sports--my_best_and_worst.xhtml" id="id221_01" media-type="application/xhtml+xml" properties="svg"/>
-    <item href="xhtml/221.02-sports--activities.xhtml" id="id221_02" media-type="application/xhtml+xml" properties="svg"/>
-    <item href="xhtml/221.03-sports--basketball_heaven.xhtml" id="id221_03" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/221.01-sports--my_best_and_worst.xhtml" id="id221_01" media-type="application/xhtml+xml"/>
+    <item href="xhtml/221.02-sports--activities.xhtml" id="id221_02" media-type="application/xhtml+xml"/>
+    <item href="xhtml/221.03-sports--basketball_heaven.xhtml" id="id221_03" media-type="application/xhtml+xml"/>
     <item href="xhtml/221.03.01-sports--bbh_quotes.xhtml" id="id221_03_01" media-type="application/xhtml+xml"/>
-    <item href="xhtml/221.04-sports--sports_in_review.xhtml" id="id221_04" media-type="application/xhtml+xml" properties="svg"/>
-    <item href="xhtml/221.05-sports--kansas_basketball.xhtml" id="id221_05" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/221.04-sports--sports_in_review.xhtml" id="id221_04" media-type="application/xhtml+xml"/>
+    <item href="xhtml/221.05-sports--kansas_basketball.xhtml" id="id221_05" media-type="application/xhtml+xml"/>
     <item href="xhtml/221.05.01-sports--ku_championship_run.xhtml" id="id221_05_01" media-type="application/xhtml+xml"/>
-    <item href="xhtml/221.06-sports--kc_chiefs__royals.xhtml" id="id221_06" media-type="application/xhtml+xml" properties="svg"/>
-    <item href="xhtml/221.06.01-sports--almost_historical.xhtml" id="id221_06_01" media-type="application/xhtml+xml" properties="svg"/>
-    <item href="xhtml/221.07-sports--kevin_johnson.xhtml" id="id221_07" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/221.06-sports--kc_chiefs__royals.xhtml" id="id221_06" media-type="application/xhtml+xml"/>
+    <item href="xhtml/221.06.01-sports--almost_historical.xhtml" id="id221_06_01" media-type="application/xhtml+xml"/>
+    <item href="xhtml/221.07-sports--kevin_johnson.xhtml" id="id221_07" media-type="application/xhtml+xml"/>
     <item href="xhtml/221.08-sports--sports_and_race.xhtml" id="id221_08" media-type="application/xhtml+xml"/>
     <item href="xhtml/221.08.01-sports--jimmy_the_greek.xhtml" id="id221_08_01" media-type="application/xhtml+xml"/>
     <item href="xhtml/221.08.02-sports--race.xhtml" id="id221_08_02" media-type="application/xhtml+xml"/>
@@ -100,16 +101,16 @@
     <item href="xhtml/221.09-sports--efficiency_rating.xhtml" id="id221_09" media-type="application/xhtml+xml"/>
     <item href="xhtml/221.10-sports--plate_production.xhtml" id="id221_10" media-type="application/xhtml+xml"/>
     <item href="xhtml/221.11-sports--qb_performance.xhtml" id="id221_11" media-type="application/xhtml+xml"/>
-    <item href="xhtml/222-kc_star.xhtml" id="id222" media-type="application/xhtml+xml" properties="svg"/>
-    <item href="xhtml/223-kc_tornado.xhtml" id="id223" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/222-kc_star.xhtml" id="id222" media-type="application/xhtml+xml"/>
+    <item href="xhtml/223-kc_tornado.xhtml" id="id223" media-type="application/xhtml+xml"/>
     <item href="xhtml/224-my_iq--tns_members_-_kansas_missouri.xhtml" id="id224" media-type="application/xhtml+xml"/>
     <item href="xhtml/225-synesthesia.xhtml" id="id225" media-type="application/xhtml+xml"/>
     <item href="xhtml/226-poker--games_and_rules.xhtml" id="id226" media-type="application/xhtml+xml"/>
     <item href="xhtml/227-legal.xhtml" id="id227" media-type="application/xhtml+xml"/>
     <item href="xhtml/228-joco_ks.xhtml" id="id228" media-type="application/xhtml+xml"/>
-    <item href="xhtml/229-us_financial--lottery.xhtml" id="id229" media-type="application/xhtml+xml" properties="svg"/>
-    <item href="xhtml/230-911__conspiracies.xhtml" id="id230" media-type="application/xhtml+xml" properties="svg"/>
-    <item href="xhtml/231-cool_stuff.xhtml" id="id231" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="xhtml/229-us_financial--lottery.xhtml" id="id229" media-type="application/xhtml+xml"/>
+    <item href="xhtml/230-911__conspiracies.xhtml" id="id230" media-type="application/xhtml+xml"/>
+    <item href="xhtml/231-cool_stuff.xhtml" id="id231" media-type="application/xhtml+xml"/>
     <item href="xhtml/232-births__deaths.xhtml" id="id232" media-type="application/xhtml+xml"/>
 
     <item href="css/main.css" id="css" media-type="text/css"/>
@@ -354,6 +355,7 @@
     <itemref idref="id230"/>
     <itemref idref="id231"/>
     <itemref idref="id232"/>
+    <itemref idref="idpictures"/>
   </spine>
   <guide>
     <reference href="xhtml/000-cover.xhtml" type="cover" title="Book Cover"/>

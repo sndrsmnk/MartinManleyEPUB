@@ -29,19 +29,21 @@ if [ ! -e "Martin_Manley-My_life_and_death.mobi" ]; then
 fi
 
 
-# FIXME now we just assume kindle is not in use / mounted :O
-device=$(grep -il "amazon kindle" /sys/bus/usb/devices/*/product | sed -e 's#/product.*##')
-if [ ! -z "$device" ]; then
-    echo 0 | sudo tee ${device}/authorized
-    sleep 1
-    echo 1 | sudo tee ${device}/authorized
-    sleep 10
-    device=$(readlink /dev/disk/by-id/usb-Kindle_Internal_Storage*-part1)
-    if [ -b "/dev/disk/by-id/$device" ]; then
-        sudo mkdir -p /mnt/pt1
-        sudo mount /dev/disk/by-id/$device /mnt/pt1
-        sudo mkdir -p /mnt/pt1/documents/Manley,\ Martin/
-        sudo cp Martin_Manley-My_life_and_death.mobi /mnt/pt1/documents/Manley,\ Martin/Martin_Manley-My_life_and_death.mobi
-        sudo eject /dev/disk/by-id/$device
+if [ "$1" = "copy" ]; then
+    # FIXME now we just assume kindle is not in use / mounted :O
+    device=$(grep -il "amazon kindle" /sys/bus/usb/devices/*/product | sed -e 's#/product.*##')
+    if [ ! -z "$device" ]; then
+        echo 0 | sudo tee ${device}/authorized
+        sleep 1
+        echo 1 | sudo tee ${device}/authorized
+        sleep 10
+        device=$(readlink /dev/disk/by-id/usb-Kindle_Internal_Storage*-part1)
+        if [ -b "/dev/disk/by-id/$device" ]; then
+            sudo mkdir -p /mnt/pt1
+            sudo mount /dev/disk/by-id/$device /mnt/pt1
+            sudo mkdir -p /mnt/pt1/documents/Manley,\ Martin/
+            sudo cp Martin_Manley-My_life_and_death.mobi /mnt/pt1/documents/Manley,\ Martin/Martin_Manley-My_life_and_death.mobi
+            sudo eject /dev/disk/by-id/$device
+        fi
     fi
 fi

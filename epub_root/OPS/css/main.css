@@ -1,9 +1,28 @@
 @namespace h "http://www.w3.org/1999/xhtml";
 
 .body0 {
+    font-family: 'Futura', 'Helvetica', serif;
 }
 
 .hr0 {
+}
+
+/* Links to internal content */
+/* <a class="aint" href="000-toc.xhtml">toc</a> */
+.aint0 {
+}
+
+/* Links to external content */
+/* <a class="aext" href="http://www.google.nl/">search engine</a>
+.aext0 {
+}
+
+/* <img class="img0" style="width:25%; float:left;"/> */
+.img0 {
+    border: 0px;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    height: auto;
 }
 
 /* <strong class="strong0"> */
@@ -22,9 +41,11 @@
 .h1 {
     text-decoration: underline;
 }
+/* Sub-chapters or subtitles */
 .h2 {
     font-style: italic;
 }
+/* Headings */
 .h3 {
     font-style: normal;
     font-weight: bold;
@@ -35,10 +56,6 @@ table, th, td {
 }
 table {
     width: 100%;
-}
-
-/* Used for chapter headers */
-.chapter0 {
 }
 
 /* Normal paragraphed text
@@ -66,7 +83,7 @@ table {
     font-style: italic;
 }
 
-/* Origintal text edited by me */
+/* Subtext / origintal text edited by publisher */
 .normal9 {
     font-size: 0.75em;
     font-style: italic;
