@@ -1,7 +1,5 @@
-@namespace h "http://www.w3.org/1999/xhtml";
-
 .body0 {
-    font-family: 'Futura', 'Helvetica', serif;
+    font-family: "Futura", "Helvetica", serif;
 }
 
 .hr0 {
@@ -20,8 +18,8 @@
 /* <img class="img0" style="width:25%; float:left;"/> */
 .img0 {
     border: 0px;
-    margin-left: 0.5em;
-    margin-right: 0.5em;
+    margin-left: 0em;
+    margin-right: 1em;
     height: auto;
 }
 
